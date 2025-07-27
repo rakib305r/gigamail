@@ -60,5 +60,16 @@ public class nothing {
     }
   }
     */
+
+      int income = 60000;
+      double textrate = (income>=40000)? 0.25 : 0.15;
+      System.out.println(textrate);
+      
+      scanner.close();
+    }
+  }
+    
+
+
     
 
