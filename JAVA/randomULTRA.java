@@ -15,7 +15,7 @@ public class randomULTRA{
     System.out.printf("Guess a random number (%d-%d)\n",min,max);
     
     do{
-      System.out.println("Enter your guess: ");
+      System.out.print("Enter your guess: ");
       guess = scanner.nextInt();
       attempts++;
 
