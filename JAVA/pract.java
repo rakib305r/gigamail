@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/**import java.util.Scanner;
 public class pract {
   public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
@@ -28,4 +28,19 @@ public class pract {
     scanner.close();
   }
   
+}
+**/
+
+import java.util.Scanner;
+
+public class pract {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Enter Your Name: ");
+        String name = scanner.nextLine();
+        System.out.println("Reverse: "+ new StringBuilder(name).reverse());
+
+        scanner.close();
+    }
 }
