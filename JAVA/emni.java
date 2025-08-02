@@ -16,7 +16,7 @@
 public class emni{
   public static void main(String[] args){
 
-    int age = 21;
+    int age = 17;
     if (cheakage(age)){
       System.out.println("You sign up");
     }
@@ -36,3 +36,5 @@ public class emni{
   }
 }
   }
+
+  
