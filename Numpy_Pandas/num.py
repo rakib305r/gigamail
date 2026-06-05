@@ -145,3 +145,19 @@
 #---------------------------------------missing value
 # import numpy as np
 # arr = np.array([45,45,96, np.nan])
+# print(np.isnan(arr)) #nan = not a number
+
+# replace_arr = np.nan_to_num(arr , nan = 100) #replace a number
+# print(replace_arr)
+
+
+#---------------------------------------
+# import numpy as np 
+# arr = np.array([45,86,23, np.inf ,56,58, -np.inf ,90])
+# print(np.isinf(arr))
+
+# replace_arr = np.nan_to_num(arr , posinf = 787, neginf= 78)
+# print(replace_arr)
+
+
+#---------------------------------------
