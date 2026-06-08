@@ -34,11 +34,3 @@ class exam extends Result {
         super.Display();
     }
 }
-
-public class inheritence {
-    public static void main(String[] args) {
-        Result result = new Result();
-        result.GetData();
-        result.Display();
-    }
-}
