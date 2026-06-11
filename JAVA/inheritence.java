@@ -3,7 +3,7 @@ class Student {
     int Roll;
 
     void GetData() {
-        Name = "Rakib Ahmedd";
+        Name = "Rakib Ahmed";
         Roll = 871203;
     }
 
@@ -32,5 +32,12 @@ class exam extends Result {
     @Override
     void Display() {
         super.Display();
+    }
+}
+public class inheritence {
+    public static void main(String[] args) {
+        Result result = new Result();
+        result.GetData();
+        result.Display();
     }
 }
