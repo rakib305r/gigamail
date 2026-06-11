@@ -1,27 +1,43 @@
-import java.util.Scanner;
-public class main{
-  public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
+class Student {
+    String Name;
+    int Roll;
 
-    System.out.print("Enter Your Name: ");
-    String name = scanner.nextLine();
+    void GetData() {
+        Name = "Rakib Ahmed";
+        Roll = 871203;
+    }
 
-    System.out.print("PLease Enter Your Age: ");
-    int age = scanner.nextInt();
+    void Display() {
+        System.out.println("Roll is: " + Roll);
+        System.out.println("Name is: " + Name);
+    }
+}
 
-    System.out.print("What is Your GPA: ");
-    double gpa = scanner.nextDouble();
+class Result extends Student {
+    float Mark;
+    @Override
+    void GetData() {
+        super.GetData();
+        Mark = 85.5f;
+    }
 
-    System.out.print("Iam Student (true/false): ");
-    boolean isstudent = scanner.nextBoolean();
+    @Override
+    void Display() {
+        super.Display();
+        System.out.println("Mark is: " + Mark);
+    }
+}
 
-    System.out.println("Hello "+ name);
-    System.out.println("you are "+ age +" Years Old");
-    System.out.println("And Your GPA "+ gpa);
-    System.out.println("Student: "+ isstudent);
-
-
-    scanner.close();
-
-  }
+class exam extends Result {
+    @Override
+    void Display() {
+        super.Display();
+    }
+}
+public class Main { 
+    public static void main(String[] args) {
+        Result result = new Result();
+        result.GetData();
+        result.Display();
+    }
 }
