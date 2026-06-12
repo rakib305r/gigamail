@@ -19,10 +19,10 @@ class Student {
 }
 public class over {
     public static void main(String[] args) {
-        Student s = new Student();
+        Student sc = new Student();
 
-        s.cal(50,40);
-        s.cal(2.93f, 1.00f);
-        s.cal(871203);
+        sc.cal(50,40);
+        sc.cal(2.93f, 1.00f);
+        sc.cal(871203);
     }
 }
