@@ -1,0 +1,1501 @@
+product,category,price,quantity,total_sales,city,payment_method,date
+Beef,Meat,60.45,10,604.5,Barisal,Cash,2025-04-25
+Soap,Household,249.76,10,2497.6,Sylhet,Mobile Banking,2025-10-22
+Juice,Beverage,297.3,6,1783.8,Chittagong,Mobile Banking,2025-07-01
+Juice,Beverage,474.61,1,474.61,Dhaka,Mobile Banking,2025-04-23
+Tomato,Vegetable,375.46,4,1501.84,Sylhet,Mobile Banking,2025-01-27
+Juice,Beverage,59.65,1,59.65,Rajshahi,Cash,2025-06-08
+Chocolate,Snacks,152.56,1,152.56,Barisal,Card,2025-10-31
+Soap,Household,196.56,3,589.68,Sylhet,Card,2025-05-31
+Toothpaste,Household,275.42,10,2754.2,Sylhet,Mobile Banking,2025-06-02
+Banana,Fruit,171.8,2,343.6,Rajshahi,Mobile Banking,2025-12-30
+Onion,Vegetable,193.03,10,1930.3,Chittagong,Cash,2025-12-24
+Tomato,Vegetable,388.1,5,1940.5,Chittagong,Cash,2025-09-07
+Apple,Fruit,34.78,7,243.46,Sylhet,Mobile Banking,2025-09-16
+Biscuits,Snacks,459.09,1,459.09,Chittagong,Card,2025-11-19
+Onion,Vegetable,348.53,2,697.06,Khulna,Card,2025-05-01
+Biscuits,Snacks,163.09,3,489.27,Rajshahi,Card,2025-09-01
+Rice,Grocery,204.65,4,818.6,Khulna,Cash,2025-09-18
+Orange,Fruit,188.77,10,1887.7,Rajshahi,Card,2025-11-02
+Bread,Bakery,162.36,2,324.72,Rajshahi,Cash,2025-07-03
+Eggs,Dairy,140.37,3,421.11,Khulna,Cash,2025-09-07
+Chips,Snacks,202.69,1,202.69,Barisal,Mobile Banking,2025-07-16
+Milk,Dairy,251.32,10,2513.2,Khulna,Cash,2025-06-08
+Eggs,Dairy,53.6,8,428.8,Khulna,Card,2025-01-16
+Chicken,Meat,102.42,4,409.68,Sylhet,Cash,2025-01-16
+Apple,Fruit,403.38,5,2016.9,Barisal,Card,2025-06-27
+Eggs,Dairy,357.01,7,2499.07,Rajshahi,Cash,2025-03-03
+Bread,Bakery,35.08,8,280.64,Dhaka,Mobile Banking,2025-09-21
+Shampoo,Household,329.52,8,2636.16,Dhaka,Card,2025-09-09
+Tomato,Vegetable,67.22,7,470.54,Chittagong,Card,2025-07-19
+Orange,Fruit,33.71,7,235.97,Rajshahi,Mobile Banking,2025-06-06
+Soft Drink,Beverage,483.83,2,967.66,Chittagong,Cash,2025-12-14
+Biscuits,Snacks,354.23,3,1062.69,Sylhet,Cash,2025-11-07
+Biscuits,Snacks,285.11,8,2280.88,Khulna,Cash,2025-08-31
+Banana,Fruit,179.29,2,358.58,Rajshahi,Mobile Banking,2025-07-25
+Tomato,Vegetable,476.84,9,4291.56,Barisal,Card,2025-10-14
+Soap,Household,380.53,6,2283.18,Rajshahi,Cash,2025-10-05
+Chips,Snacks,58.85,9,529.65,Khulna,Card,2025-02-11
+Rice,Grocery,499.9,5,2499.5,Barisal,Cash,2025-11-09
+Soap,Household,334.62,4,1338.48,Khulna,Mobile Banking,2025-04-22
+Biscuits,Snacks,63.32,3,189.96,Barisal,Cash,2025-10-18
+Soft Drink,Beverage,411.93,6,2471.58,Chittagong,Cash,2025-12-14
+Soap,Household,410.57,9,3695.13,Sylhet,Card,2025-05-31
+Beef,Meat,383.69,1,383.69,Dhaka,Cash,2025-01-26
+Toothpaste,Household,38.41,2,76.82,Dhaka,Mobile Banking,2025-03-16
+Onion,Vegetable,102.86,2,205.72,Sylhet,Card,2025-08-25
+Soap,Household,316.23,9,2846.07,Barisal,Card,2025-07-12
+Chicken,Meat,330.76,7,2315.32,Khulna,Cash,2025-04-24
+Bread,Bakery,218.46,5,1092.3,Sylhet,Cash,2025-10-21
+Beef,Meat,376.59,7,2636.13,Khulna,Card,2025-01-03
+Tomato,Vegetable,196.33,3,588.99,Chittagong,Mobile Banking,2025-08-10
+Shampoo,Household,216.08,6,1296.48,Sylhet,Cash,2025-08-24
+Orange,Fruit,394.44,2,788.88,Dhaka,Card,2025-10-23
+Beef,Meat,299.44,4,1197.76,Barisal,Mobile Banking,2025-08-29
+Toothpaste,Household,128.28,2,256.56,Sylhet,Cash,2025-02-16
+Soap,Household,373.52,1,373.52,Barisal,Card,2025-03-29
+Apple,Fruit,166.89,7,1168.23,Khulna,Card,2025-07-16
+Juice,Beverage,107.3,8,858.4,Rajshahi,Card,2025-08-11
+Soft Drink,Beverage,208.53,7,1459.71,Sylhet,Cash,2025-10-18
+Toothpaste,Household,327.19,3,981.57,Khulna,Mobile Banking,2025-10-19
+Toothpaste,Household,51.95,3,155.85,Rajshahi,Cash,2025-01-14
+Onion,Vegetable,340.48,8,2723.84,Dhaka,Cash,2025-04-10
+Shampoo,Household,277.52,3,832.56,Sylhet,Mobile Banking,2025-04-03
+Shampoo,Household,465.46,4,1861.84,Sylhet,Mobile Banking,2025-07-02
+Tomato,Vegetable,485.29,3,1455.87,Dhaka,Mobile Banking,2025-02-03
+Apple,Fruit,360.96,8,2887.68,Chittagong,Mobile Banking,2025-06-11
+Soap,Household,228.42,3,685.26,Barisal,Mobile Banking,2025-10-09
+Toothpaste,Household,67.57,2,135.14,Chittagong,Cash,2025-03-11
+Chips,Snacks,151.76,9,1365.84,Rajshahi,Cash,2025-07-30
+Banana,Fruit,124.5,9,1120.5,Khulna,Card,2025-12-10
+Orange,Fruit,74.18,4,296.72,Sylhet,Card,2025-11-26
+Biscuits,Snacks,155.97,6,935.82,Rajshahi,Mobile Banking,2025-11-08
+Shampoo,Household,49.12,3,147.36,Sylhet,Cash,2025-04-17
+Banana,Fruit,334.82,1,334.82,Chittagong,Mobile Banking,2025-08-27
+Eggs,Dairy,104.63,9,941.67,Chittagong,Cash,2025-12-12
+Toothpaste,Household,242.32,8,1938.56,Sylhet,Cash,2025-11-28
+Orange,Fruit,301.14,8,2409.12,Sylhet,Card,2025-03-25
+Potato,Vegetable,80.29,2,160.58,Chittagong,Card,2025-02-02
+Eggs,Dairy,269.57,10,2695.7,Dhaka,Cash,2025-12-30
+Beef,Meat,225.72,9,2031.48,Sylhet,Mobile Banking,2025-01-26
+Tomato,Vegetable,219.61,9,1976.49,Khulna,Mobile Banking,2025-05-19
+Milk,Dairy,429.2,1,429.2,Rajshahi,Card,2025-04-14
+Tomato,Vegetable,176.27,5,881.35,Khulna,Mobile Banking,2025-07-14
+Apple,Fruit,498.09,2,996.18,Barisal,Mobile Banking,2025-08-11
+Soft Drink,Beverage,375.23,9,3377.07,Sylhet,Cash,2025-01-19
+Onion,Vegetable,449.44,5,2247.2,Sylhet,Card,2025-07-20
+Orange,Fruit,332.74,2,665.48,Khulna,Cash,2025-01-23
+Chips,Snacks,477.46,1,477.46,Sylhet,Cash,2025-02-16
+Banana,Fruit,370.79,5,1853.95,Chittagong,Card,2025-05-10
+Orange,Fruit,296.23,9,2666.07,Khulna,Card,2025-07-03
+Orange,Fruit,55.02,10,550.2,Chittagong,Cash,2025-03-13
+Chicken,Meat,184.82,1,184.82,Barisal,Card,2025-10-12
+Potato,Vegetable,83.93,8,671.44,Sylhet,Card,2025-02-12
+Biscuits,Snacks,385.72,1,385.72,Rajshahi,Cash,2025-01-20
+Chicken,Meat,283.72,2,567.44,Sylhet,Cash,2025-08-28
+Biscuits,Snacks,169.97,8,1359.76,Chittagong,Card,2025-04-08
+Bread,Bakery,291.19,2,582.38,Khulna,Cash,2025-12-13
+Milk,Dairy,400.18,5,2000.9,Khulna,Mobile Banking,2025-10-21
+Bread,Bakery,337.12,6,2022.72,Sylhet,Cash,2025-05-05
+Rice,Grocery,289.21,9,2602.89,Dhaka,Mobile Banking,2025-10-05
+Soap,Household,209.11,9,1881.99,Chittagong,Card,2025-07-11
+Chicken,Meat,430.69,9,3876.21,Sylhet,Card,2025-08-27
+Milk,Dairy,485.89,10,4858.9,Khulna,Card,2025-01-20
+Toothpaste,Household,161.44,6,968.64,Rajshahi,Card,2025-10-04
+Shampoo,Household,269.51,4,1078.04,Khulna,Card,2025-11-28
+Apple,Fruit,272.46,5,1362.3,Rajshahi,Mobile Banking,2025-12-15
+Apple,Fruit,296.95,8,2375.6,Barisal,Mobile Banking,2025-11-11
+Chocolate,Snacks,381.91,1,381.91,Rajshahi,Mobile Banking,2025-09-03
+Onion,Vegetable,125.83,7,880.81,Dhaka,Mobile Banking,2025-11-10
+Juice,Beverage,171.13,4,684.52,Khulna,Cash,2025-08-04
+Potato,Vegetable,283.52,3,850.56,Dhaka,Card,2025-07-15
+Bread,Bakery,255.77,5,1278.85,Khulna,Cash,2025-12-12
+Milk,Dairy,135.48,10,1354.8,Sylhet,Card,2025-02-27
+Juice,Beverage,180.43,4,721.72,Sylhet,Cash,2025-07-25
+Soft Drink,Beverage,391.73,6,2350.38,Chittagong,Mobile Banking,2025-03-15
+Banana,Fruit,392.54,4,1570.16,Chittagong,Cash,2025-09-20
+Chicken,Meat,267.17,7,1870.19,Rajshahi,Card,2025-08-04
+Biscuits,Snacks,367.3,5,1836.5,Khulna,Mobile Banking,2025-04-02
+Beef,Meat,415.8,2,831.6,Khulna,Mobile Banking,2025-10-05
+Biscuits,Snacks,42.3,3,126.9,Khulna,Card,2025-07-01
+Chips,Snacks,57.24,6,343.44,Khulna,Mobile Banking,2025-03-09
+Beef,Meat,98.64,5,493.2,Barisal,Card,2025-07-03
+Apple,Fruit,455.17,6,2731.02,Rajshahi,Card,2025-08-17
+Chocolate,Snacks,89.69,1,89.69,Barisal,Mobile Banking,2025-07-19
+Soap,Household,270.77,7,1895.39,Sylhet,Cash,2025-12-13
+Chicken,Meat,333.7,7,2335.9,Sylhet,Mobile Banking,2025-09-02
+Biscuits,Snacks,102.22,5,511.1,Chittagong,Cash,2025-08-14
+Banana,Fruit,248.11,5,1240.55,Dhaka,Cash,2025-11-21
+Beef,Meat,65.62,2,131.24,Rajshahi,Mobile Banking,2025-11-08
+Chocolate,Snacks,242.7,6,1456.2,Sylhet,Cash,2025-09-28
+Banana,Fruit,183.26,3,549.78,Sylhet,Cash,2025-01-13
+Soft Drink,Beverage,53.03,10,530.3,Khulna,Mobile Banking,2025-05-28
+Banana,Fruit,384.95,4,1539.8,Dhaka,Cash,2025-12-06
+Orange,Fruit,484.35,1,484.35,Khulna,Card,2025-03-10
+Soap,Household,119.66,4,478.64,Barisal,Mobile Banking,2025-09-29
+Chicken,Meat,209.93,5,1049.65,Dhaka,Mobile Banking,2025-12-21
+Bread,Bakery,471.67,5,2358.35,Khulna,Card,2025-03-10
+Banana,Fruit,322.43,10,3224.3,Khulna,Mobile Banking,2025-05-19
+Tomato,Vegetable,81.12,10,811.2,Dhaka,Cash,2025-01-29
+Rice,Grocery,102.39,5,511.95,Barisal,Mobile Banking,2025-03-08
+Banana,Fruit,268.34,3,805.02,Barisal,Cash,2025-08-26
+Banana,Fruit,440.78,9,3967.02,Sylhet,Mobile Banking,2025-11-01
+Biscuits,Snacks,320.22,8,2561.76,Sylhet,Card,2025-12-24
+Onion,Vegetable,140.56,3,421.68,Barisal,Cash,2025-01-21
+Onion,Vegetable,498.17,5,2490.85,Chittagong,Cash,2025-12-22
+Beef,Meat,468.07,9,4212.63,Khulna,Card,2025-02-28
+Apple,Fruit,279.48,1,279.48,Chittagong,Cash,2025-07-19
+Onion,Vegetable,269.24,10,2692.4,Chittagong,Cash,2025-01-21
+Tomato,Vegetable,219.01,6,1314.06,Sylhet,Card,2025-06-14
+Soft Drink,Beverage,95.59,7,669.13,Barisal,Mobile Banking,2025-09-22
+Soap,Household,454.35,4,1817.4,Khulna,Mobile Banking,2025-12-26
+Chicken,Meat,38.4,8,307.2,Sylhet,Mobile Banking,2025-10-18
+Eggs,Dairy,398.27,4,1593.08,Khulna,Card,2025-03-31
+Potato,Vegetable,463.62,3,1390.86,Barisal,Card,2025-10-06
+Orange,Fruit,308.3,3,924.9,Chittagong,Cash,2025-07-17
+Chips,Snacks,442.24,9,3980.16,Dhaka,Card,2025-10-20
+Toothpaste,Household,432.2,3,1296.6,Khulna,Card,2025-10-07
+Milk,Dairy,488.18,10,4881.8,Sylhet,Mobile Banking,2025-02-09
+Juice,Beverage,99.15,7,694.05,Sylhet,Cash,2025-01-27
+Toothpaste,Household,264.05,10,2640.5,Rajshahi,Mobile Banking,2025-02-26
+Potato,Vegetable,412.37,6,2474.22,Sylhet,Mobile Banking,2025-05-23
+Banana,Fruit,468.19,7,3277.33,Dhaka,Cash,2025-04-02
+Juice,Beverage,87.41,3,262.23,Rajshahi,Cash,2025-12-17
+Tomato,Vegetable,424.82,3,1274.46,Barisal,Card,2025-09-05
+Soap,Household,482.66,9,4343.94,Barisal,Card,2025-02-28
+Eggs,Dairy,456.18,8,3649.44,Dhaka,Cash,2025-06-16
+Bread,Bakery,254.64,1,254.64,Sylhet,Mobile Banking,2025-01-14
+Soap,Household,368.59,4,1474.36,Barisal,Mobile Banking,2025-09-27
+Rice,Grocery,480.59,3,1441.77,Barisal,Mobile Banking,2025-06-16
+Juice,Beverage,95.22,4,380.88,Dhaka,Card,2025-02-24
+Beef,Meat,345.13,8,2761.04,Sylhet,Cash,2025-07-10
+Orange,Fruit,169.04,2,338.08,Rajshahi,Card,2025-11-20
+Shampoo,Household,457.24,4,1828.96,Khulna,Card,2025-07-11
+Beef,Meat,379.37,3,1138.11,Khulna,Card,2025-08-30
+Chicken,Meat,396.8,6,2380.8,Khulna,Mobile Banking,2025-04-10
+Shampoo,Household,193.83,4,775.32,Sylhet,Mobile Banking,2025-04-09
+Eggs,Dairy,315.02,7,2205.14,Rajshahi,Cash,2025-10-04
+Eggs,Dairy,77.91,7,545.37,Barisal,Card,2025-07-10
+Soap,Household,399.73,4,1598.92,Dhaka,Mobile Banking,2025-09-28
+Potato,Vegetable,164.02,3,492.06,Barisal,Mobile Banking,2025-08-25
+Chips,Snacks,95.26,5,476.3,Chittagong,Mobile Banking,2025-07-28
+Milk,Dairy,88.84,8,710.72,Barisal,Mobile Banking,2025-09-14
+Chicken,Meat,389.83,10,3898.3,Sylhet,Cash,2025-10-19
+Biscuits,Snacks,383.7,9,3453.3,Dhaka,Mobile Banking,2025-03-27
+Toothpaste,Household,160.05,4,640.2,Rajshahi,Cash,2025-03-23
+Toothpaste,Household,408.82,2,817.64,Rajshahi,Card,2025-01-07
+Tomato,Vegetable,383.22,3,1149.66,Dhaka,Cash,2025-10-31
+Shampoo,Household,443.05,2,886.1,Dhaka,Card,2025-08-30
+Apple,Fruit,344.01,3,1032.03,Khulna,Mobile Banking,2025-01-23
+Rice,Grocery,195.89,7,1371.23,Khulna,Mobile Banking,2025-06-20
+Chips,Snacks,358.5,9,3226.5,Khulna,Cash,2025-03-16
+Banana,Fruit,328.12,5,1640.6,Barisal,Cash,2025-08-18
+Tomato,Vegetable,185.45,8,1483.6,Khulna,Mobile Banking,2025-11-17
+Shampoo,Household,373.61,4,1494.44,Rajshahi,Card,2025-04-25
+Apple,Fruit,474.37,2,948.74,Chittagong,Cash,2025-02-15
+Rice,Grocery,180.16,6,1080.96,Sylhet,Card,2025-11-07
+Eggs,Dairy,42.97,8,343.76,Chittagong,Card,2025-12-07
+Soap,Household,438.84,1,438.84,Rajshahi,Mobile Banking,2025-08-07
+Eggs,Dairy,295.27,1,295.27,Dhaka,Card,2025-08-28
+Chips,Snacks,112.67,6,676.02,Dhaka,Card,2025-01-09
+Bread,Bakery,254.11,10,2541.1,Khulna,Mobile Banking,2025-02-07
+Orange,Fruit,232.53,8,1860.24,Sylhet,Card,2025-01-28
+Soft Drink,Beverage,147.84,7,1034.88,Rajshahi,Mobile Banking,2025-04-04
+Biscuits,Snacks,63.83,8,510.64,Chittagong,Mobile Banking,2025-05-27
+Soft Drink,Beverage,385.91,9,3473.19,Chittagong,Cash,2025-11-01
+Chicken,Meat,136.62,9,1229.58,Sylhet,Card,2025-10-17
+Shampoo,Household,311.79,4,1247.16,Rajshahi,Card,2025-10-28
+Soap,Household,291.99,6,1751.94,Rajshahi,Cash,2025-06-08
+Banana,Fruit,381.5,5,1907.5,Dhaka,Mobile Banking,2025-06-07
+Tomato,Vegetable,489.45,2,978.9,Khulna,Cash,2025-04-24
+Bread,Bakery,175.6,10,1756.0,Dhaka,Mobile Banking,2025-04-08
+Potato,Vegetable,338.02,2,676.04,Barisal,Mobile Banking,2025-12-29
+Apple,Fruit,350.53,4,1402.12,Barisal,Card,2025-06-29
+Beef,Meat,160.91,1,160.91,Dhaka,Cash,2025-09-23
+Milk,Dairy,431.88,1,431.88,Dhaka,Card,2025-11-13
+Banana,Fruit,226.01,6,1356.06,Khulna,Mobile Banking,2025-06-26
+Milk,Dairy,456.59,7,3196.13,Barisal,Mobile Banking,2025-12-31
+Orange,Fruit,211.29,6,1267.74,Chittagong,Card,2025-07-12
+Milk,Dairy,421.67,7,2951.69,Khulna,Cash,2025-07-28
+Shampoo,Household,69.66,3,208.98,Rajshahi,Card,2025-07-16
+Biscuits,Snacks,291.44,1,291.44,Dhaka,Cash,2025-07-07
+Orange,Fruit,338.27,4,1353.08,Chittagong,Cash,2025-05-31
+Tomato,Vegetable,26.37,10,263.7,Dhaka,Cash,2025-09-20
+Shampoo,Household,364.27,1,364.27,Chittagong,Mobile Banking,2025-03-22
+Beef,Meat,87.01,4,348.04,Khulna,Card,2025-03-09
+Onion,Vegetable,350.49,4,1401.96,Dhaka,Card,2025-10-05
+Soft Drink,Beverage,153.85,1,153.85,Khulna,Cash,2025-09-13
+Biscuits,Snacks,485.94,7,3401.58,Sylhet,Cash,2025-06-18
+Onion,Vegetable,367.76,2,735.52,Sylhet,Card,2025-03-10
+Banana,Fruit,277.33,3,831.99,Khulna,Card,2025-03-08
+Chocolate,Snacks,381.71,5,1908.55,Sylhet,Cash,2025-01-05
+Soft Drink,Beverage,431.19,4,1724.76,Rajshahi,Card,2025-07-01
+Onion,Vegetable,77.31,10,773.1,Khulna,Card,2025-01-19
+Chocolate,Snacks,462.28,4,1849.12,Sylhet,Mobile Banking,2025-01-08
+Chocolate,Snacks,325.4,7,2277.8,Barisal,Mobile Banking,2025-01-11
+Eggs,Dairy,295.97,8,2367.76,Barisal,Mobile Banking,2025-04-14
+Tomato,Vegetable,448.57,1,448.57,Barisal,Cash,2025-01-01
+Tomato,Vegetable,222.56,2,445.12,Sylhet,Mobile Banking,2025-06-25
+Orange,Fruit,317.65,9,2858.85,Rajshahi,Card,2025-12-07
+Chips,Snacks,352.08,4,1408.32,Khulna,Cash,2025-02-04
+Rice,Grocery,435.93,2,871.86,Sylhet,Card,2025-04-09
+Chocolate,Snacks,102.96,6,617.76,Sylhet,Cash,2025-12-26
+Tomato,Vegetable,409.36,4,1637.44,Sylhet,Mobile Banking,2025-11-29
+Onion,Vegetable,159.99,8,1279.92,Khulna,Card,2025-04-10
+Bread,Bakery,299.63,4,1198.52,Rajshahi,Mobile Banking,2025-02-06
+Onion,Vegetable,195.52,2,391.04,Chittagong,Cash,2025-12-20
+Bread,Bakery,35.79,1,35.79,Khulna,Cash,2025-04-13
+Chips,Snacks,146.36,3,439.08,Rajshahi,Mobile Banking,2025-01-10
+Potato,Vegetable,316.82,2,633.64,Sylhet,Mobile Banking,2025-11-07
+Apple,Fruit,399.42,6,2396.52,Rajshahi,Mobile Banking,2025-02-01
+Chicken,Meat,37.62,6,225.72,Barisal,Card,2025-01-30
+Eggs,Dairy,477.85,3,1433.55,Dhaka,Card,2025-03-14
+Chicken,Meat,124.94,4,499.76,Sylhet,Cash,2025-03-20
+Banana,Fruit,220.51,7,1543.57,Dhaka,Mobile Banking,2025-12-18
+Bread,Bakery,54.25,4,217.0,Rajshahi,Cash,2025-08-18
+Soft Drink,Beverage,60.02,7,420.14,Khulna,Card,2025-02-22
+Apple,Fruit,42.49,8,339.92,Sylhet,Cash,2025-06-23
+Tomato,Vegetable,151.8,9,1366.2,Khulna,Mobile Banking,2025-05-04
+Apple,Fruit,479.41,9,4314.69,Rajshahi,Cash,2025-04-25
+Soap,Household,407.6,5,2038.0,Dhaka,Mobile Banking,2025-08-22
+Apple,Fruit,287.77,8,2302.16,Sylhet,Card,2025-04-05
+Orange,Fruit,48.58,9,437.22,Rajshahi,Mobile Banking,2025-10-06
+Chocolate,Snacks,453.88,8,3631.04,Khulna,Cash,2025-04-09
+Chips,Snacks,404.06,10,4040.6,Khulna,Card,2025-03-08
+Tomato,Vegetable,380.63,5,1903.15,Sylhet,Cash,2025-05-11
+Chips,Snacks,384.74,1,384.74,Khulna,Cash,2025-05-01
+Orange,Fruit,418.45,5,2092.25,Chittagong,Cash,2025-08-23
+Onion,Vegetable,429.72,9,3867.48,Rajshahi,Card,2025-02-05
+Eggs,Dairy,206.12,3,618.36,Rajshahi,Mobile Banking,2025-01-03
+Potato,Vegetable,30.34,2,60.68,Rajshahi,Card,2025-08-21
+Chicken,Meat,252.41,3,757.23,Dhaka,Mobile Banking,2025-06-30
+Soft Drink,Beverage,388.67,7,2720.69,Barisal,Cash,2025-08-02
+Tomato,Vegetable,298.17,10,2981.7,Khulna,Mobile Banking,2025-02-27
+Beef,Meat,318.46,1,318.46,Dhaka,Mobile Banking,2025-12-28
+Beef,Meat,391.39,5,1956.95,Rajshahi,Mobile Banking,2025-11-15
+Soft Drink,Beverage,184.64,3,553.92,Barisal,Mobile Banking,2025-05-11
+Bread,Bakery,374.24,2,748.48,Dhaka,Card,2025-11-05
+Soap,Household,130.59,6,783.54,Barisal,Cash,2025-06-12
+Shampoo,Household,274.78,5,1373.9,Chittagong,Mobile Banking,2025-02-21
+Onion,Vegetable,185.2,9,1666.8,Dhaka,Mobile Banking,2025-03-28
+Apple,Fruit,202.61,9,1823.49,Dhaka,Cash,2025-10-02
+Juice,Beverage,300.4,6,1802.4,Sylhet,Card,2025-09-21
+Onion,Vegetable,468.54,7,3279.78,Chittagong,Cash,2025-12-22
+Orange,Fruit,390.8,1,390.8,Barisal,Mobile Banking,2025-06-20
+Biscuits,Snacks,172.81,8,1382.48,Chittagong,Cash,2025-06-29
+Toothpaste,Household,239.73,2,479.46,Rajshahi,Mobile Banking,2025-05-01
+Soft Drink,Beverage,467.22,1,467.22,Barisal,Mobile Banking,2025-10-11
+Chocolate,Snacks,23.21,8,185.68,Chittagong,Cash,2025-10-19
+Toothpaste,Household,20.16,9,181.44,Rajshahi,Cash,2025-11-23
+Milk,Dairy,143.56,5,717.8,Barisal,Card,2025-08-17
+Soft Drink,Beverage,419.42,10,4194.2,Sylhet,Mobile Banking,2025-08-06
+Potato,Vegetable,376.24,1,376.24,Chittagong,Card,2025-03-23
+Soap,Household,396.16,6,2376.96,Sylhet,Cash,2025-05-10
+Beef,Meat,477.27,3,1431.81,Sylhet,Cash,2025-03-27
+Banana,Fruit,246.05,3,738.15,Sylhet,Cash,2025-05-17
+Tomato,Vegetable,86.19,10,861.9,Chittagong,Mobile Banking,2025-08-21
+Biscuits,Snacks,150.87,8,1206.96,Sylhet,Card,2025-03-05
+Biscuits,Snacks,160.11,2,320.22,Barisal,Cash,2025-10-09
+Chips,Snacks,422.39,1,422.39,Barisal,Mobile Banking,2025-08-22
+Milk,Dairy,241.86,4,967.44,Khulna,Mobile Banking,2025-03-31
+Onion,Vegetable,104.44,7,731.08,Rajshahi,Card,2025-09-25
+Chocolate,Snacks,223.73,6,1342.38,Sylhet,Cash,2025-07-15
+Beef,Meat,160.77,2,321.54,Sylhet,Card,2025-07-27
+Tomato,Vegetable,344.07,5,1720.35,Barisal,Mobile Banking,2025-03-16
+Potato,Vegetable,52.45,1,52.45,Rajshahi,Mobile Banking,2025-02-02
+Toothpaste,Household,43.79,1,43.79,Rajshahi,Mobile Banking,2025-02-15
+Shampoo,Household,34.22,6,205.32,Sylhet,Card,2025-09-30
+Toothpaste,Household,211.03,5,1055.15,Rajshahi,Cash,2025-03-06
+Beef,Meat,120.45,6,722.7,Sylhet,Mobile Banking,2025-09-30
+Beef,Meat,47.2,7,330.4,Dhaka,Mobile Banking,2025-08-23
+Soap,Household,101.96,7,713.72,Rajshahi,Card,2025-01-07
+Bread,Bakery,96.68,5,483.4,Khulna,Mobile Banking,2025-10-06
+Onion,Vegetable,199.42,6,1196.52,Sylhet,Mobile Banking,2025-03-25
+Soap,Household,126.52,8,1012.16,Chittagong,Mobile Banking,2025-08-06
+Chocolate,Snacks,273.08,2,546.16,Sylhet,Mobile Banking,2025-10-18
+Toothpaste,Household,309.89,10,3098.9,Chittagong,Mobile Banking,2025-07-14
+Tomato,Vegetable,207.62,5,1038.1,Chittagong,Mobile Banking,2025-04-10
+Chips,Snacks,373.69,1,373.69,Sylhet,Card,2025-12-12
+Potato,Vegetable,79.88,4,319.52,Rajshahi,Card,2025-05-16
+Chicken,Meat,456.52,5,2282.6,Chittagong,Card,2025-12-07
+Soft Drink,Beverage,226.93,5,1134.65,Dhaka,Cash,2025-10-15
+Onion,Vegetable,168.58,8,1348.64,Sylhet,Mobile Banking,2025-06-05
+Beef,Meat,473.52,3,1420.56,Barisal,Cash,2025-03-04
+Rice,Grocery,176.68,8,1413.44,Chittagong,Mobile Banking,2025-04-30
+Shampoo,Household,121.7,5,608.5,Dhaka,Mobile Banking,2025-10-15
+Bread,Bakery,248.38,1,248.38,Dhaka,Mobile Banking,2025-01-07
+Bread,Bakery,102.12,1,102.12,Dhaka,Cash,2025-09-16
+Soft Drink,Beverage,398.77,8,3190.16,Khulna,Mobile Banking,2025-07-21
+Banana,Fruit,347.76,10,3477.6,Rajshahi,Cash,2025-12-20
+Chocolate,Snacks,403.6,2,807.2,Khulna,Mobile Banking,2025-04-05
+Potato,Vegetable,118.59,1,118.59,Dhaka,Cash,2025-09-07
+Bread,Bakery,67.99,2,135.98,Rajshahi,Card,2025-05-27
+Onion,Vegetable,406.62,4,1626.48,Sylhet,Card,2025-05-21
+Soft Drink,Beverage,25.16,1,25.16,Sylhet,Mobile Banking,2025-08-11
+Bread,Bakery,61.16,7,428.12,Barisal,Mobile Banking,2025-10-14
+Beef,Meat,282.0,8,2256.0,Sylhet,Card,2025-05-28
+Juice,Beverage,165.98,7,1161.86,Sylhet,Mobile Banking,2025-07-07
+Toothpaste,Household,423.73,3,1271.19,Sylhet,Mobile Banking,2025-02-21
+Toothpaste,Household,59.7,1,59.7,Khulna,Cash,2025-10-27
+Banana,Fruit,235.07,7,1645.49,Khulna,Mobile Banking,2025-09-10
+Chocolate,Snacks,408.58,4,1634.32,Rajshahi,Mobile Banking,2025-11-06
+Orange,Fruit,297.79,9,2680.11,Sylhet,Card,2025-08-12
+Rice,Grocery,242.53,10,2425.3,Khulna,Card,2025-02-20
+Chips,Snacks,469.05,6,2814.3,Dhaka,Cash,2025-08-08
+Banana,Fruit,185.18,5,925.9,Barisal,Mobile Banking,2025-11-10
+Shampoo,Household,236.84,1,236.84,Rajshahi,Mobile Banking,2025-11-06
+Beef,Meat,50.99,6,305.94,Sylhet,Card,2025-11-22
+Onion,Vegetable,278.88,10,2788.8,Sylhet,Cash,2025-07-03
+Soft Drink,Beverage,444.0,5,2220.0,Rajshahi,Cash,2025-04-03
+Soft Drink,Beverage,87.68,10,876.8,Chittagong,Mobile Banking,2025-02-08
+Chocolate,Snacks,124.0,4,496.0,Chittagong,Mobile Banking,2025-04-11
+Eggs,Dairy,131.86,2,263.72,Barisal,Card,2025-08-05
+Chocolate,Snacks,98.49,10,984.9,Khulna,Card,2025-04-12
+Apple,Fruit,198.19,8,1585.52,Khulna,Mobile Banking,2025-08-27
+Bread,Bakery,91.46,2,182.92,Sylhet,Card,2025-12-21
+Bread,Bakery,410.52,9,3694.68,Barisal,Card,2025-07-23
+Rice,Grocery,456.66,3,1369.98,Barisal,Card,2025-08-05
+Apple,Fruit,72.09,2,144.18,Rajshahi,Cash,2025-10-29
+Beef,Meat,89.07,5,445.35,Sylhet,Card,2025-01-20
+Chicken,Meat,276.11,8,2208.88,Rajshahi,Mobile Banking,2025-08-23
+Chicken,Meat,132.41,5,662.05,Chittagong,Mobile Banking,2025-02-12
+Tomato,Vegetable,462.7,1,462.7,Chittagong,Cash,2025-09-10
+Bread,Bakery,475.14,2,950.28,Barisal,Mobile Banking,2025-09-13
+Tomato,Vegetable,485.59,2,971.18,Rajshahi,Card,2025-10-13
+Toothpaste,Household,367.93,9,3311.37,Dhaka,Card,2025-04-12
+Tomato,Vegetable,371.07,1,371.07,Rajshahi,Mobile Banking,2025-01-13
+Onion,Vegetable,167.94,1,167.94,Dhaka,Card,2025-10-30
+Rice,Grocery,407.2,7,2850.4,Rajshahi,Mobile Banking,2025-12-26
+Onion,Vegetable,480.77,5,2403.85,Barisal,Card,2025-01-27
+Apple,Fruit,477.66,4,1910.64,Rajshahi,Mobile Banking,2025-02-23
+Chocolate,Snacks,250.73,4,1002.92,Rajshahi,Cash,2025-02-24
+Potato,Vegetable,390.72,2,781.44,Sylhet,Card,2025-03-20
+Biscuits,Snacks,30.68,9,276.12,Chittagong,Cash,2025-08-13
+Juice,Beverage,299.47,9,2695.23,Rajshahi,Card,2025-05-17
+Apple,Fruit,289.46,8,2315.68,Khulna,Card,2025-07-26
+Rice,Grocery,278.43,10,2784.3,Barisal,Cash,2025-11-24
+Potato,Vegetable,304.05,2,608.1,Chittagong,Cash,2025-02-05
+Juice,Beverage,34.36,6,206.16,Dhaka,Mobile Banking,2025-02-05
+Tomato,Vegetable,72.2,8,577.6,Dhaka,Cash,2025-04-17
+Bread,Bakery,284.28,9,2558.52,Sylhet,Cash,2025-09-25
+Onion,Vegetable,267.05,9,2403.45,Rajshahi,Card,2025-08-03
+Soap,Household,389.21,7,2724.47,Chittagong,Cash,2025-04-04
+Chocolate,Snacks,371.76,9,3345.84,Khulna,Card,2025-05-06
+Shampoo,Household,228.48,4,913.92,Dhaka,Cash,2025-09-23
+Banana,Fruit,303.94,5,1519.7,Khulna,Mobile Banking,2025-12-04
+Chips,Snacks,394.12,6,2364.72,Dhaka,Mobile Banking,2025-11-05
+Onion,Vegetable,246.88,10,2468.8,Barisal,Mobile Banking,2025-02-11
+Orange,Fruit,245.28,7,1716.96,Khulna,Mobile Banking,2025-06-03
+Biscuits,Snacks,145.78,8,1166.24,Dhaka,Card,2025-01-02
+Juice,Beverage,34.6,8,276.8,Dhaka,Cash,2025-01-26
+Soap,Household,396.84,4,1587.36,Sylhet,Mobile Banking,2025-02-19
+Soap,Household,447.58,4,1790.32,Sylhet,Card,2025-07-16
+Tomato,Vegetable,493.22,8,3945.76,Rajshahi,Cash,2025-02-15
+Banana,Fruit,447.47,8,3579.76,Chittagong,Cash,2025-11-17
+Banana,Fruit,144.16,10,1441.6,Barisal,Card,2025-08-03
+Chips,Snacks,182.09,9,1638.81,Sylhet,Card,2025-04-21
+Bread,Bakery,326.95,2,653.9,Barisal,Cash,2025-09-05
+Soap,Household,161.37,6,968.22,Khulna,Mobile Banking,2025-09-15
+Chicken,Meat,103.22,9,928.98,Dhaka,Mobile Banking,2025-09-18
+Soap,Household,330.63,3,991.89,Barisal,Cash,2025-03-26
+Banana,Fruit,368.75,4,1475.0,Chittagong,Mobile Banking,2025-04-17
+Tomato,Vegetable,103.93,9,935.37,Sylhet,Cash,2025-09-26
+Banana,Fruit,450.85,7,3155.95,Chittagong,Cash,2025-04-12
+Eggs,Dairy,425.16,9,3826.44,Khulna,Card,2025-04-17
+Apple,Fruit,162.34,3,487.02,Rajshahi,Mobile Banking,2025-04-07
+Rice,Grocery,155.93,10,1559.3,Khulna,Cash,2025-04-25
+Rice,Grocery,268.12,8,2144.96,Barisal,Mobile Banking,2025-04-03
+Onion,Vegetable,57.82,6,346.92,Sylhet,Cash,2025-01-07
+Eggs,Dairy,342.32,6,2053.92,Chittagong,Cash,2025-11-24
+Potato,Vegetable,488.94,5,2444.7,Dhaka,Mobile Banking,2025-02-02
+Rice,Grocery,327.28,8,2618.24,Rajshahi,Card,2025-08-02
+Beef,Meat,336.28,1,336.28,Rajshahi,Card,2025-07-18
+Potato,Vegetable,79.58,6,477.48,Khulna,Mobile Banking,2025-04-17
+Chips,Snacks,294.06,8,2352.48,Sylhet,Cash,2025-11-30
+Tomato,Vegetable,225.76,7,1580.32,Sylhet,Card,2025-12-25
+Soap,Household,460.29,7,3222.03,Barisal,Card,2025-10-26
+Apple,Fruit,420.95,1,420.95,Barisal,Cash,2025-11-26
+Shampoo,Household,167.3,2,334.6,Dhaka,Card,2025-11-19
+Banana,Fruit,412.1,8,3296.8,Barisal,Card,2025-07-14
+Apple,Fruit,483.5,1,483.5,Rajshahi,Card,2025-03-20
+Potato,Vegetable,271.68,5,1358.4,Sylhet,Card,2025-05-15
+Shampoo,Household,225.68,10,2256.8,Sylhet,Mobile Banking,2025-11-12
+Tomato,Vegetable,103.14,8,825.12,Chittagong,Card,2025-04-11
+Shampoo,Household,436.44,3,1309.32,Khulna,Cash,2025-11-20
+Shampoo,Household,196.98,8,1575.84,Dhaka,Mobile Banking,2025-08-02
+Beef,Meat,86.15,7,603.05,Khulna,Cash,2025-11-13
+Onion,Vegetable,499.89,10,4998.9,Khulna,Cash,2025-01-16
+Chocolate,Snacks,247.17,1,247.17,Dhaka,Card,2025-08-31
+Potato,Vegetable,191.57,8,1532.56,Sylhet,Mobile Banking,2025-02-16
+Biscuits,Snacks,136.4,4,545.6,Barisal,Card,2025-01-08
+Soft Drink,Beverage,490.12,3,1470.36,Sylhet,Card,2025-01-04
+Banana,Fruit,225.87,7,1581.09,Sylhet,Cash,2025-08-23
+Bread,Bakery,300.86,1,300.86,Sylhet,Card,2025-04-10
+Beef,Meat,296.8,6,1780.8,Khulna,Cash,2025-11-08
+Toothpaste,Household,497.97,10,4979.7,Chittagong,Cash,2025-09-21
+Eggs,Dairy,188.43,3,565.29,Barisal,Card,2025-04-14
+Onion,Vegetable,337.32,4,1349.28,Khulna,Mobile Banking,2025-01-30
+Onion,Vegetable,71.53,4,286.12,Rajshahi,Cash,2025-07-30
+Shampoo,Household,412.48,2,824.96,Khulna,Cash,2025-10-06
+Apple,Fruit,203.3,2,406.6,Sylhet,Cash,2025-05-03
+Juice,Beverage,51.75,7,362.25,Rajshahi,Card,2025-04-23
+Eggs,Dairy,201.51,9,1813.59,Dhaka,Card,2025-10-12
+Apple,Fruit,250.33,4,1001.32,Rajshahi,Cash,2025-10-25
+Banana,Fruit,367.4,3,1102.2,Sylhet,Mobile Banking,2025-07-30
+Biscuits,Snacks,450.3,6,2701.8,Chittagong,Mobile Banking,2025-12-12
+Soft Drink,Beverage,99.09,5,495.45,Sylhet,Mobile Banking,2025-11-19
+Onion,Vegetable,433.53,2,867.06,Sylhet,Card,2025-07-22
+Soft Drink,Beverage,286.94,3,860.82,Rajshahi,Cash,2025-06-30
+Bread,Bakery,376.64,3,1129.92,Rajshahi,Mobile Banking,2025-12-20
+Chips,Snacks,31.77,9,285.93,Dhaka,Card,2025-09-07
+Orange,Fruit,296.52,6,1779.12,Khulna,Cash,2025-09-28
+Eggs,Dairy,307.8,3,923.4,Rajshahi,Cash,2025-06-26
+Juice,Beverage,343.82,7,2406.74,Dhaka,Card,2025-12-17
+Biscuits,Snacks,121.64,3,364.92,Rajshahi,Card,2025-10-13
+Milk,Dairy,341.37,7,2389.59,Chittagong,Cash,2025-11-19
+Chips,Snacks,467.17,1,467.17,Barisal,Card,2025-09-06
+Chocolate,Snacks,314.72,4,1258.88,Chittagong,Mobile Banking,2025-09-03
+Shampoo,Household,94.54,9,850.86,Dhaka,Mobile Banking,2025-06-18
+Soft Drink,Beverage,462.82,2,925.64,Dhaka,Mobile Banking,2025-06-12
+Biscuits,Snacks,384.12,7,2688.84,Sylhet,Card,2025-09-21
+Juice,Beverage,100.63,6,603.78,Barisal,Cash,2025-05-06
+Potato,Vegetable,300.41,3,901.23,Dhaka,Cash,2025-01-10
+Eggs,Dairy,461.0,6,2766.0,Barisal,Cash,2025-07-24
+Chicken,Meat,375.01,10,3750.1,Rajshahi,Mobile Banking,2025-07-17
+Toothpaste,Household,463.5,8,3708.0,Chittagong,Mobile Banking,2025-03-16
+Eggs,Dairy,146.66,3,439.98,Rajshahi,Cash,2025-01-10
+Orange,Fruit,295.4,5,1477.0,Rajshahi,Card,2025-11-07
+Soap,Household,339.64,1,339.64,Barisal,Mobile Banking,2025-06-04
+Soap,Household,245.49,2,490.98,Dhaka,Mobile Banking,2025-06-11
+Orange,Fruit,469.01,8,3752.08,Chittagong,Mobile Banking,2025-02-03
+Biscuits,Snacks,289.23,1,289.23,Chittagong,Card,2025-05-05
+Onion,Vegetable,257.01,1,257.01,Rajshahi,Mobile Banking,2025-10-27
+Rice,Grocery,475.47,9,4279.23,Chittagong,Cash,2025-11-01
+Onion,Vegetable,118.8,10,1188.0,Barisal,Card,2025-12-28
+Chips,Snacks,74.54,1,74.54,Rajshahi,Cash,2025-01-25
+Chicken,Meat,173.69,2,347.38,Barisal,Mobile Banking,2025-03-27
+Soap,Household,240.73,2,481.46,Chittagong,Card,2025-01-29
+Chips,Snacks,336.69,1,336.69,Khulna,Cash,2025-10-13
+Beef,Meat,404.49,10,4044.9,Rajshahi,Card,2025-02-15
+Tomato,Vegetable,264.21,3,792.63,Barisal,Card,2025-08-02
+Beef,Meat,222.12,8,1776.96,Barisal,Mobile Banking,2025-11-01
+Rice,Grocery,58.62,4,234.48,Chittagong,Cash,2025-10-21
+Apple,Fruit,416.08,1,416.08,Khulna,Cash,2025-03-29
+Onion,Vegetable,472.21,3,1416.63,Khulna,Card,2025-11-13
+Biscuits,Snacks,27.75,10,277.5,Barisal,Card,2025-04-19
+Milk,Dairy,378.84,6,2273.04,Chittagong,Mobile Banking,2025-03-17
+Shampoo,Household,43.08,4,172.32,Barisal,Card,2025-04-29
+Soap,Household,173.26,8,1386.08,Chittagong,Mobile Banking,2025-11-08
+Toothpaste,Household,342.8,4,1371.2,Rajshahi,Card,2025-08-18
+Biscuits,Snacks,173.46,5,867.3,Sylhet,Cash,2025-10-19
+Bread,Bakery,387.6,5,1938.0,Khulna,Mobile Banking,2025-08-02
+Chicken,Meat,63.33,8,506.64,Sylhet,Cash,2025-12-19
+Bread,Bakery,89.3,1,89.3,Sylhet,Mobile Banking,2025-12-23
+Potato,Vegetable,135.79,5,678.95,Rajshahi,Cash,2025-04-29
+Apple,Fruit,36.15,1,36.15,Barisal,Mobile Banking,2025-02-12
+Biscuits,Snacks,400.11,8,3200.88,Rajshahi,Card,2025-05-02
+Beef,Meat,456.09,8,3648.72,Barisal,Cash,2025-06-08
+Biscuits,Snacks,423.59,10,4235.9,Barisal,Mobile Banking,2025-10-17
+Shampoo,Household,414.56,6,2487.36,Khulna,Mobile Banking,2025-06-09
+Potato,Vegetable,368.09,2,736.18,Chittagong,Mobile Banking,2025-02-12
+Biscuits,Snacks,295.77,9,2661.93,Sylhet,Card,2025-07-17
+Beef,Meat,86.01,6,516.06,Barisal,Mobile Banking,2025-05-07
+Onion,Vegetable,180.87,7,1266.09,Rajshahi,Mobile Banking,2025-04-29
+Soft Drink,Beverage,114.11,10,1141.1,Khulna,Card,2025-12-30
+Chicken,Meat,453.48,8,3627.84,Chittagong,Card,2025-09-11
+Soap,Household,146.05,2,292.1,Khulna,Mobile Banking,2025-11-03
+Shampoo,Household,480.66,10,4806.6,Dhaka,Mobile Banking,2025-08-03
+Apple,Fruit,243.27,1,243.27,Barisal,Mobile Banking,2025-01-17
+Banana,Fruit,327.49,5,1637.45,Rajshahi,Card,2025-12-11
+Toothpaste,Household,141.63,4,566.52,Barisal,Mobile Banking,2025-11-05
+Shampoo,Household,161.29,4,645.16,Chittagong,Card,2025-11-22
+Potato,Vegetable,273.25,9,2459.25,Khulna,Mobile Banking,2025-10-14
+Banana,Fruit,493.34,8,3946.72,Khulna,Card,2025-10-22
+Tomato,Vegetable,313.64,2,627.28,Sylhet,Cash,2025-04-10
+Shampoo,Household,465.78,3,1397.34,Sylhet,Cash,2025-01-12
+Soft Drink,Beverage,455.2,10,4552.0,Rajshahi,Card,2025-04-15
+Eggs,Dairy,373.77,7,2616.39,Khulna,Card,2025-07-08
+Banana,Fruit,368.4,7,2578.8,Barisal,Card,2025-12-17
+Orange,Fruit,36.88,1,36.88,Sylhet,Cash,2025-01-12
+Tomato,Vegetable,337.5,7,2362.5,Rajshahi,Card,2025-06-24
+Orange,Fruit,92.92,5,464.6,Rajshahi,Card,2025-12-25
+Bread,Bakery,435.22,5,2176.1,Barisal,Card,2025-04-21
+Chips,Snacks,142.84,8,1142.72,Dhaka,Card,2025-07-16
+Banana,Fruit,92.4,2,184.8,Sylhet,Cash,2025-02-17
+Toothpaste,Household,283.74,6,1702.44,Rajshahi,Cash,2025-09-21
+Chicken,Meat,378.05,4,1512.2,Barisal,Mobile Banking,2025-12-15
+Chips,Snacks,181.2,9,1630.8,Khulna,Mobile Banking,2025-01-24
+Biscuits,Snacks,153.57,5,767.85,Barisal,Card,2025-11-07
+Biscuits,Snacks,189.85,1,189.85,Rajshahi,Mobile Banking,2025-07-11
+Juice,Beverage,177.76,9,1599.84,Rajshahi,Card,2025-06-09
+Eggs,Dairy,164.42,8,1315.36,Sylhet,Card,2025-05-25
+Chips,Snacks,363.26,5,1816.3,Dhaka,Mobile Banking,2025-12-01
+Juice,Beverage,345.3,7,2417.1,Sylhet,Card,2025-10-08
+Beef,Meat,72.32,8,578.56,Sylhet,Cash,2025-10-10
+Beef,Meat,240.25,6,1441.5,Dhaka,Cash,2025-02-21
+Eggs,Dairy,480.61,10,4806.1,Rajshahi,Cash,2025-11-20
+Toothpaste,Household,454.2,8,3633.6,Dhaka,Card,2025-09-30
+Juice,Beverage,423.57,7,2964.99,Sylhet,Card,2025-03-29
+Milk,Dairy,33.14,8,265.12,Dhaka,Mobile Banking,2025-02-05
+Milk,Dairy,480.28,7,3361.96,Dhaka,Card,2025-07-01
+Orange,Fruit,267.9,9,2411.1,Khulna,Card,2025-12-09
+Biscuits,Snacks,393.54,10,3935.4,Rajshahi,Mobile Banking,2025-10-04
+Potato,Vegetable,31.26,1,31.26,Chittagong,Mobile Banking,2025-03-25
+Orange,Fruit,230.16,1,230.16,Khulna,Cash,2025-11-12
+Chips,Snacks,197.63,2,395.26,Sylhet,Card,2025-05-06
+Chips,Snacks,484.76,9,4362.84,Barisal,Cash,2025-02-09
+Soap,Household,193.68,6,1162.08,Chittagong,Cash,2025-02-11
+Onion,Vegetable,457.88,10,4578.8,Sylhet,Mobile Banking,2025-07-17
+Apple,Fruit,331.64,2,663.28,Chittagong,Mobile Banking,2025-07-15
+Shampoo,Household,60.59,1,60.59,Sylhet,Mobile Banking,2025-09-27
+Banana,Fruit,270.42,3,811.26,Khulna,Mobile Banking,2025-06-13
+Beef,Meat,212.42,3,637.26,Dhaka,Mobile Banking,2025-11-19
+Chicken,Meat,386.29,5,1931.45,Chittagong,Cash,2025-02-03
+Tomato,Vegetable,370.35,7,2592.45,Khulna,Card,2025-08-12
+Rice,Grocery,89.92,4,359.68,Chittagong,Card,2025-07-03
+Beef,Meat,375.03,5,1875.15,Chittagong,Card,2025-04-01
+Chocolate,Snacks,48.73,9,438.57,Khulna,Mobile Banking,2025-01-20
+Eggs,Dairy,483.64,3,1450.92,Dhaka,Card,2025-05-15
+Orange,Fruit,177.55,6,1065.3,Sylhet,Card,2025-04-16
+Chips,Snacks,113.83,10,1138.3,Dhaka,Mobile Banking,2025-01-14
+Milk,Dairy,393.66,5,1968.3,Sylhet,Mobile Banking,2025-02-02
+Orange,Fruit,328.98,3,986.94,Sylhet,Mobile Banking,2025-01-18
+Milk,Dairy,299.32,1,299.32,Chittagong,Mobile Banking,2025-10-15
+Soap,Household,345.87,6,2075.22,Rajshahi,Cash,2025-03-14
+Apple,Fruit,102.22,10,1022.2,Rajshahi,Mobile Banking,2025-05-23
+Orange,Fruit,495.63,1,495.63,Khulna,Card,2025-03-19
+Chips,Snacks,416.22,1,416.22,Sylhet,Card,2025-10-01
+Apple,Fruit,285.2,4,1140.8,Rajshahi,Cash,2025-09-04
+Apple,Fruit,270.52,9,2434.68,Chittagong,Card,2025-11-10
+Shampoo,Household,95.2,8,761.6,Barisal,Cash,2025-04-07
+Soap,Household,260.66,1,260.66,Dhaka,Cash,2025-02-26
+Orange,Fruit,172.46,2,344.92,Dhaka,Cash,2025-10-31
+Beef,Meat,369.18,9,3322.62,Sylhet,Cash,2025-03-15
+Biscuits,Snacks,356.11,6,2136.66,Sylhet,Card,2025-04-14
+Chips,Snacks,118.6,5,593.0,Rajshahi,Card,2025-02-03
+Eggs,Dairy,499.9,1,499.9,Sylhet,Card,2025-09-09
+Eggs,Dairy,333.33,7,2333.31,Rajshahi,Mobile Banking,2026-01-01
+Onion,Vegetable,147.93,2,295.86,Rajshahi,Card,2025-08-23
+Chocolate,Snacks,305.74,7,2140.18,Chittagong,Card,2025-04-25
+Banana,Fruit,235.94,3,707.82,Dhaka,Mobile Banking,2025-07-18
+Beef,Meat,466.95,4,1867.8,Khulna,Cash,2025-05-17
+Tomato,Vegetable,468.93,10,4689.3,Rajshahi,Mobile Banking,2025-09-09
+Tomato,Vegetable,339.78,1,339.78,Dhaka,Mobile Banking,2025-04-29
+Orange,Fruit,388.81,7,2721.67,Chittagong,Mobile Banking,2025-03-22
+Bread,Bakery,112.25,5,561.25,Khulna,Mobile Banking,2025-03-23
+Milk,Dairy,335.3,3,1005.9,Chittagong,Mobile Banking,2025-11-24
+Banana,Fruit,74.9,4,299.6,Sylhet,Card,2025-01-30
+Milk,Dairy,224.76,6,1348.56,Barisal,Mobile Banking,2025-06-17
+Juice,Beverage,55.61,1,55.61,Khulna,Cash,2025-01-10
+Shampoo,Household,432.33,9,3890.97,Barisal,Mobile Banking,2025-03-23
+Chips,Snacks,103.26,6,619.56,Barisal,Cash,2025-02-11
+Toothpaste,Household,391.8,8,3134.4,Chittagong,Mobile Banking,2025-12-04
+Eggs,Dairy,179.08,1,179.08,Sylhet,Cash,2025-02-28
+Biscuits,Snacks,45.69,7,319.83,Rajshahi,Cash,2025-12-08
+Bread,Bakery,352.57,3,1057.71,Rajshahi,Cash,2025-06-27
+Onion,Vegetable,274.01,4,1096.04,Chittagong,Card,2025-02-04
+Toothpaste,Household,90.5,3,271.5,Sylhet,Mobile Banking,2025-12-09
+Milk,Dairy,299.26,4,1197.04,Barisal,Card,2025-08-22
+Chocolate,Snacks,97.81,2,195.62,Khulna,Card,2025-01-08
+Orange,Fruit,364.18,9,3277.62,Dhaka,Cash,2025-04-03
+Milk,Dairy,447.39,4,1789.56,Barisal,Cash,2025-07-03
+Chocolate,Snacks,400.93,2,801.86,Dhaka,Card,2025-05-24
+Bread,Bakery,412.14,1,412.14,Chittagong,Mobile Banking,2025-11-09
+Potato,Vegetable,492.81,10,4928.1,Dhaka,Card,2025-03-06
+Orange,Fruit,349.83,8,2798.64,Dhaka,Mobile Banking,2025-05-17
+Toothpaste,Household,426.74,10,4267.4,Chittagong,Cash,2025-12-15
+Apple,Fruit,94.49,7,661.43,Chittagong,Cash,2025-06-30
+Beef,Meat,31.3,3,93.9,Dhaka,Mobile Banking,2025-08-23
+Biscuits,Snacks,299.16,4,1196.64,Dhaka,Cash,2025-08-10
+Bread,Bakery,337.22,10,3372.2,Rajshahi,Card,2025-10-11
+Chips,Snacks,382.08,6,2292.48,Chittagong,Cash,2025-07-31
+Milk,Dairy,140.96,1,140.96,Dhaka,Cash,2025-09-28
+Bread,Bakery,107.37,5,536.85,Chittagong,Mobile Banking,2025-12-15
+Potato,Vegetable,258.19,6,1549.14,Khulna,Cash,2025-04-09
+Onion,Vegetable,397.71,1,397.71,Rajshahi,Cash,2025-11-13
+Apple,Fruit,96.3,2,192.6,Khulna,Mobile Banking,2025-12-01
+Onion,Vegetable,220.8,2,441.6,Chittagong,Card,2025-12-26
+Shampoo,Household,186.39,5,931.95,Rajshahi,Card,2025-06-28
+Milk,Dairy,115.86,5,579.3,Rajshahi,Mobile Banking,2025-10-30
+Chicken,Meat,423.19,6,2539.14,Khulna,Card,2025-12-21
+Tomato,Vegetable,372.63,6,2235.78,Sylhet,Mobile Banking,2025-12-15
+Bread,Bakery,335.03,8,2680.24,Barisal,Cash,2025-12-06
+Tomato,Vegetable,172.67,5,863.35,Khulna,Card,2025-03-15
+Biscuits,Snacks,362.18,3,1086.54,Chittagong,Mobile Banking,2025-08-07
+Apple,Fruit,141.36,10,1413.6,Khulna,Card,2025-10-24
+Milk,Dairy,479.03,10,4790.3,Chittagong,Mobile Banking,2025-07-29
+Shampoo,Household,447.21,10,4472.1,Sylhet,Cash,2025-03-29
+Orange,Fruit,263.67,7,1845.69,Dhaka,Mobile Banking,2025-10-08
+Tomato,Vegetable,370.93,1,370.93,Sylhet,Cash,2025-02-10
+Onion,Vegetable,348.26,8,2786.08,Rajshahi,Mobile Banking,2025-08-29
+Chicken,Meat,318.14,10,3181.4,Rajshahi,Mobile Banking,2025-12-28
+Toothpaste,Household,213.94,10,2139.4,Chittagong,Card,2025-08-17
+Eggs,Dairy,395.14,8,3161.12,Sylhet,Mobile Banking,2025-05-13
+Soft Drink,Beverage,72.49,5,362.45,Rajshahi,Cash,2025-04-13
+Toothpaste,Household,95.2,10,952.0,Rajshahi,Mobile Banking,2025-11-13
+Milk,Dairy,82.8,6,496.8,Rajshahi,Mobile Banking,2025-05-09
+Milk,Dairy,405.74,4,1622.96,Rajshahi,Card,2025-09-23
+Toothpaste,Household,481.31,10,4813.1,Barisal,Mobile Banking,2025-09-23
+Chocolate,Snacks,26.18,8,209.44,Dhaka,Card,2025-04-15
+Milk,Dairy,357.04,7,2499.28,Dhaka,Card,2025-02-25
+Beef,Meat,144.64,2,289.28,Sylhet,Card,2025-07-13
+Banana,Fruit,352.12,8,2816.96,Khulna,Cash,2025-12-19
+Onion,Vegetable,76.33,4,305.32,Khulna,Mobile Banking,2025-05-30
+Biscuits,Snacks,217.72,4,870.88,Barisal,Mobile Banking,2025-02-19
+Tomato,Vegetable,59.31,4,237.24,Sylhet,Mobile Banking,2025-07-23
+Potato,Vegetable,394.48,2,788.96,Barisal,Card,2025-08-11
+Onion,Vegetable,164.01,5,820.05,Barisal,Cash,2025-06-03
+Eggs,Dairy,376.03,3,1128.09,Barisal,Cash,2025-07-30
+Chicken,Meat,289.33,2,578.66,Barisal,Card,2025-11-22
+Chocolate,Snacks,104.72,6,628.32,Dhaka,Mobile Banking,2025-10-12
+Apple,Fruit,354.82,10,3548.2,Dhaka,Mobile Banking,2025-05-26
+Chips,Snacks,327.62,10,3276.2,Khulna,Card,2025-10-22
+Soft Drink,Beverage,458.36,5,2291.8,Barisal,Card,2025-06-25
+Orange,Fruit,451.16,10,4511.6,Chittagong,Cash,2025-12-07
+Potato,Vegetable,379.61,6,2277.66,Khulna,Cash,2025-03-01
+Beef,Meat,326.41,8,2611.28,Barisal,Cash,2025-03-06
+Eggs,Dairy,245.17,8,1961.36,Rajshahi,Mobile Banking,2025-12-03
+Apple,Fruit,177.97,1,177.97,Rajshahi,Mobile Banking,2025-03-03
+Apple,Fruit,406.5,6,2439.0,Sylhet,Card,2025-08-02
+Apple,Fruit,397.19,5,1985.95,Rajshahi,Cash,2025-10-14
+Potato,Vegetable,363.29,7,2543.03,Barisal,Cash,2025-06-01
+Eggs,Dairy,478.34,8,3826.72,Chittagong,Card,2025-07-05
+Milk,Dairy,432.92,8,3463.36,Dhaka,Mobile Banking,2025-04-26
+Rice,Grocery,210.2,8,1681.6,Rajshahi,Mobile Banking,2025-06-18
+Soft Drink,Beverage,245.82,4,983.28,Chittagong,Cash,2025-01-09
+Eggs,Dairy,258.27,6,1549.62,Chittagong,Cash,2025-05-04
+Shampoo,Household,303.53,10,3035.3,Rajshahi,Card,2025-09-03
+Rice,Grocery,36.02,1,36.02,Dhaka,Cash,2025-06-03
+Banana,Fruit,305.56,8,2444.48,Khulna,Mobile Banking,2025-02-15
+Onion,Vegetable,343.39,9,3090.51,Sylhet,Mobile Banking,2025-05-16
+Chips,Snacks,119.24,8,953.92,Chittagong,Cash,2025-04-24
+Chicken,Meat,125.69,9,1131.21,Khulna,Mobile Banking,2025-08-27
+Milk,Dairy,436.12,9,3925.08,Sylhet,Card,2025-09-06
+Soft Drink,Beverage,31.94,3,95.82,Rajshahi,Mobile Banking,2025-07-22
+Bread,Bakery,411.04,3,1233.12,Rajshahi,Card,2025-12-10
+Milk,Dairy,253.26,6,1519.56,Dhaka,Card,2025-11-10
+Beef,Meat,400.12,4,1600.48,Barisal,Mobile Banking,2025-04-16
+Chocolate,Snacks,476.46,1,476.46,Sylhet,Mobile Banking,2025-10-24
+Apple,Fruit,62.29,6,373.74,Barisal,Card,2025-08-29
+Toothpaste,Household,210.06,6,1260.36,Dhaka,Cash,2025-02-03
+Shampoo,Household,88.31,1,88.31,Khulna,Mobile Banking,2025-04-22
+Rice,Grocery,20.37,8,162.96,Khulna,Cash,2025-12-13
+Chocolate,Snacks,151.59,6,909.54,Dhaka,Card,2025-01-14
+Eggs,Dairy,351.06,10,3510.6,Dhaka,Cash,2025-04-29
+Eggs,Dairy,389.05,3,1167.15,Barisal,Card,2025-02-07
+Potato,Vegetable,208.0,2,416.0,Khulna,Cash,2025-06-04
+Soap,Household,139.38,8,1115.04,Sylhet,Card,2025-02-10
+Chicken,Meat,431.19,1,431.19,Sylhet,Cash,2025-03-03
+Chips,Snacks,421.83,3,1265.49,Sylhet,Mobile Banking,2025-02-01
+Tomato,Vegetable,272.77,9,2454.93,Khulna,Card,2025-04-11
+Banana,Fruit,106.72,1,106.72,Barisal,Card,2025-12-26
+Chicken,Meat,190.77,3,572.31,Khulna,Card,2025-12-27
+Chips,Snacks,92.94,9,836.46,Barisal,Card,2025-04-25
+Beef,Meat,468.95,9,4220.55,Chittagong,Cash,2025-05-01
+Toothpaste,Household,442.11,4,1768.44,Barisal,Card,2025-01-20
+Rice,Grocery,339.59,8,2716.72,Rajshahi,Card,2025-11-09
+Soft Drink,Beverage,270.33,10,2703.3,Dhaka,Card,2025-07-26
+Potato,Vegetable,105.49,9,949.41,Rajshahi,Cash,2025-08-29
+Apple,Fruit,376.13,2,752.26,Khulna,Cash,2025-12-10
+Shampoo,Household,366.93,1,366.93,Chittagong,Cash,2025-11-23
+Rice,Grocery,32.25,7,225.75,Chittagong,Cash,2025-12-16
+Onion,Vegetable,204.35,3,613.05,Rajshahi,Cash,2025-07-26
+Biscuits,Snacks,213.34,1,213.34,Barisal,Mobile Banking,2025-04-19
+Eggs,Dairy,323.7,2,647.4,Sylhet,Mobile Banking,2025-01-11
+Onion,Vegetable,335.89,2,671.78,Sylhet,Cash,2025-03-13
+Milk,Dairy,181.96,8,1455.68,Chittagong,Cash,2025-02-21
+Potato,Vegetable,236.89,3,710.67,Dhaka,Card,2025-07-16
+Bread,Bakery,314.63,1,314.63,Sylhet,Cash,2025-11-29
+Toothpaste,Household,464.53,9,4180.77,Dhaka,Card,2025-05-22
+Shampoo,Household,377.29,4,1509.16,Chittagong,Cash,2025-12-11
+Chicken,Meat,334.74,8,2677.92,Rajshahi,Card,2025-10-01
+Potato,Vegetable,190.34,7,1332.38,Sylhet,Card,2025-11-05
+Biscuits,Snacks,84.12,6,504.72,Rajshahi,Mobile Banking,2025-08-01
+Soap,Household,130.84,6,785.04,Barisal,Cash,2025-12-25
+Banana,Fruit,315.2,8,2521.6,Sylhet,Mobile Banking,2025-12-20
+Bread,Bakery,89.59,2,179.18,Rajshahi,Mobile Banking,2025-12-13
+Soft Drink,Beverage,312.32,6,1873.92,Rajshahi,Card,2025-11-13
+Potato,Vegetable,466.66,9,4199.94,Rajshahi,Cash,2025-07-19
+Potato,Vegetable,152.34,5,761.7,Khulna,Cash,2025-07-11
+Beef,Meat,353.73,6,2122.38,Dhaka,Cash,2025-04-24
+Chips,Snacks,95.46,8,763.68,Sylhet,Cash,2025-03-06
+Apple,Fruit,117.25,1,117.25,Barisal,Card,2025-09-28
+Biscuits,Snacks,121.04,2,242.08,Sylhet,Mobile Banking,2025-08-07
+Tomato,Vegetable,375.62,1,375.62,Khulna,Mobile Banking,2025-01-19
+Rice,Grocery,282.39,9,2541.51,Sylhet,Card,2025-03-10
+Orange,Fruit,413.73,2,827.46,Barisal,Cash,2025-10-15
+Juice,Beverage,136.86,7,958.02,Khulna,Mobile Banking,2025-03-28
+Apple,Fruit,295.42,8,2363.36,Barisal,Card,2025-12-14
+Potato,Vegetable,416.78,6,2500.68,Dhaka,Card,2025-06-22
+Beef,Meat,415.8,2,831.6,Sylhet,Cash,2025-11-09
+Potato,Vegetable,290.35,2,580.7,Dhaka,Mobile Banking,2025-02-16
+Toothpaste,Household,95.06,2,190.12,Rajshahi,Cash,2025-06-01
+Chocolate,Snacks,124.07,8,992.56,Rajshahi,Mobile Banking,2025-02-18
+Soap,Household,213.07,9,1917.63,Sylhet,Card,2025-05-31
+Juice,Beverage,376.88,1,376.88,Dhaka,Cash,2025-05-14
+Chips,Snacks,158.54,5,792.7,Barisal,Cash,2025-07-20
+Chips,Snacks,496.39,10,4963.9,Chittagong,Card,2025-02-14
+Apple,Fruit,405.11,8,3240.88,Sylhet,Card,2025-06-01
+Soft Drink,Beverage,81.92,2,163.84,Barisal,Mobile Banking,2025-11-04
+Apple,Fruit,51.34,6,308.04,Dhaka,Mobile Banking,2025-01-20
+Beef,Meat,475.48,6,2852.88,Sylhet,Mobile Banking,2025-06-26
+Bread,Bakery,393.76,3,1181.28,Sylhet,Cash,2025-03-01
+Milk,Dairy,301.59,6,1809.54,Chittagong,Card,2025-01-08
+Shampoo,Household,73.55,9,661.95,Chittagong,Cash,2025-08-14
+Chicken,Meat,281.95,4,1127.8,Dhaka,Mobile Banking,2025-08-16
+Chips,Snacks,151.04,10,1510.4,Chittagong,Cash,2025-07-09
+Bread,Bakery,496.21,2,992.42,Khulna,Mobile Banking,2025-09-21
+Eggs,Dairy,122.33,6,733.98,Khulna,Cash,2025-09-05
+Rice,Grocery,315.48,9,2839.32,Khulna,Mobile Banking,2025-07-13
+Soft Drink,Beverage,144.73,4,578.92,Rajshahi,Mobile Banking,2025-08-06
+Eggs,Dairy,303.23,10,3032.3,Khulna,Card,2025-01-24
+Toothpaste,Household,215.09,9,1935.81,Dhaka,Card,2025-10-27
+Orange,Fruit,294.34,1,294.34,Sylhet,Mobile Banking,2025-06-26
+Orange,Fruit,452.76,4,1811.04,Khulna,Card,2025-10-16
+Chicken,Meat,152.34,6,914.04,Sylhet,Card,2026-01-01
+Chicken,Meat,378.19,3,1134.57,Chittagong,Cash,2025-01-11
+Chips,Snacks,51.04,10,510.4,Rajshahi,Mobile Banking,2025-02-03
+Onion,Vegetable,20.21,4,80.84,Rajshahi,Cash,2025-03-03
+Tomato,Vegetable,232.56,10,2325.6,Barisal,Cash,2025-05-16
+Chocolate,Snacks,434.27,10,4342.7,Dhaka,Card,2025-08-05
+Potato,Vegetable,271.4,4,1085.6,Sylhet,Cash,2025-06-15
+Biscuits,Snacks,297.84,3,893.52,Dhaka,Mobile Banking,2025-10-23
+Beef,Meat,203.49,6,1220.94,Khulna,Mobile Banking,2025-10-19
+Orange,Fruit,240.31,8,1922.48,Rajshahi,Mobile Banking,2025-08-15
+Milk,Dairy,73.68,1,73.68,Khulna,Cash,2025-07-10
+Juice,Beverage,219.76,2,439.52,Khulna,Mobile Banking,2025-09-07
+Toothpaste,Household,85.38,8,683.04,Chittagong,Cash,2025-10-03
+Tomato,Vegetable,247.05,2,494.1,Khulna,Mobile Banking,2025-01-28
+Beef,Meat,254.83,1,254.83,Rajshahi,Card,2025-02-12
+Beef,Meat,336.84,7,2357.88,Rajshahi,Mobile Banking,2025-11-05
+Soap,Household,236.56,9,2129.04,Rajshahi,Mobile Banking,2025-12-25
+Shampoo,Household,153.2,8,1225.6,Barisal,Mobile Banking,2025-12-17
+Soft Drink,Beverage,487.21,10,4872.1,Khulna,Mobile Banking,2025-02-02
+Toothpaste,Household,115.92,3,347.76,Rajshahi,Mobile Banking,2025-11-19
+Soft Drink,Beverage,147.26,7,1030.82,Sylhet,Cash,2025-07-26
+Biscuits,Snacks,166.82,2,333.64,Rajshahi,Card,2025-07-24
+Chips,Snacks,145.79,4,583.16,Chittagong,Cash,2025-06-24
+Shampoo,Household,130.04,4,520.16,Chittagong,Mobile Banking,2025-07-21
+Eggs,Dairy,120.19,3,360.57,Barisal,Cash,2025-01-25
+Tomato,Vegetable,491.73,1,491.73,Dhaka,Card,2025-01-05
+Toothpaste,Household,265.13,9,2386.17,Barisal,Cash,2025-02-24
+Potato,Vegetable,131.06,1,131.06,Sylhet,Mobile Banking,2025-07-04
+Soft Drink,Beverage,367.68,1,367.68,Barisal,Card,2025-05-06
+Onion,Vegetable,447.99,2,895.98,Rajshahi,Card,2025-04-14
+Apple,Fruit,122.7,3,368.1,Khulna,Cash,2025-09-22
+Banana,Fruit,299.44,5,1497.2,Barisal,Card,2025-09-01
+Banana,Fruit,258.09,1,258.09,Sylhet,Card,2025-08-12
+Soft Drink,Beverage,228.37,6,1370.22,Chittagong,Cash,2025-07-12
+Milk,Dairy,392.45,4,1569.8,Chittagong,Card,2025-01-14
+Shampoo,Household,113.71,2,227.42,Barisal,Cash,2025-08-18
+Milk,Dairy,221.24,8,1769.92,Dhaka,Cash,2025-07-09
+Milk,Dairy,54.66,8,437.28,Barisal,Cash,2025-06-23
+Eggs,Dairy,128.35,1,128.35,Chittagong,Card,2025-11-21
+Apple,Fruit,152.09,8,1216.72,Chittagong,Cash,2025-12-18
+Onion,Vegetable,111.11,9,999.99,Dhaka,Mobile Banking,2025-03-03
+Toothpaste,Household,349.24,4,1396.96,Khulna,Cash,2025-12-06
+Toothpaste,Household,134.86,8,1078.88,Barisal,Card,2025-08-04
+Chips,Snacks,399.0,3,1197.0,Khulna,Cash,2025-06-16
+Soft Drink,Beverage,123.76,7,866.32,Rajshahi,Mobile Banking,2025-05-26
+Onion,Vegetable,471.46,6,2828.76,Dhaka,Cash,2025-02-27
+Toothpaste,Household,419.69,2,839.38,Khulna,Cash,2025-05-16
+Juice,Beverage,363.22,10,3632.2,Sylhet,Mobile Banking,2025-04-28
+Juice,Beverage,463.75,3,1391.25,Chittagong,Cash,2025-09-24
+Potato,Vegetable,130.67,7,914.69,Sylhet,Mobile Banking,2025-03-13
+Juice,Beverage,174.11,7,1218.77,Sylhet,Card,2025-06-14
+Rice,Grocery,109.17,8,873.36,Khulna,Cash,2025-07-24
+Chicken,Meat,174.45,1,174.45,Khulna,Card,2025-04-05
+Chicken,Meat,498.0,10,4980.0,Barisal,Mobile Banking,2025-01-17
+Biscuits,Snacks,269.04,6,1614.24,Sylhet,Cash,2025-06-02
+Potato,Vegetable,220.91,7,1546.37,Chittagong,Card,2025-09-09
+Chips,Snacks,304.24,7,2129.68,Dhaka,Card,2025-10-19
+Chocolate,Snacks,357.69,3,1073.07,Dhaka,Mobile Banking,2025-01-29
+Rice,Grocery,238.22,7,1667.54,Chittagong,Cash,2025-02-26
+Shampoo,Household,268.73,9,2418.57,Khulna,Mobile Banking,2025-10-12
+Soft Drink,Beverage,291.68,9,2625.12,Chittagong,Card,2025-01-25
+Shampoo,Household,128.01,8,1024.08,Chittagong,Mobile Banking,2025-04-22
+Juice,Beverage,280.72,7,1965.04,Barisal,Cash,2025-12-05
+Toothpaste,Household,462.92,3,1388.76,Barisal,Cash,2025-02-17
+Toothpaste,Household,435.7,1,435.7,Barisal,Cash,2025-05-13
+Soap,Household,445.74,8,3565.92,Barisal,Mobile Banking,2025-06-08
+Toothpaste,Household,86.86,6,521.16,Barisal,Card,2025-11-20
+Eggs,Dairy,296.97,3,890.91,Rajshahi,Card,2025-09-18
+Soft Drink,Beverage,347.4,4,1389.6,Chittagong,Cash,2025-04-25
+Orange,Fruit,390.56,6,2343.36,Dhaka,Cash,2025-03-06
+Tomato,Vegetable,426.17,4,1704.68,Dhaka,Mobile Banking,2025-04-17
+Eggs,Dairy,128.61,5,643.05,Rajshahi,Cash,2025-04-09
+Banana,Fruit,181.85,9,1636.65,Barisal,Mobile Banking,2025-12-13
+Rice,Grocery,325.96,9,2933.64,Chittagong,Card,2025-01-18
+Potato,Vegetable,251.68,5,1258.4,Khulna,Mobile Banking,2025-11-18
+Beef,Meat,87.38,10,873.8,Rajshahi,Mobile Banking,2025-03-24
+Beef,Meat,478.73,10,4787.3,Chittagong,Mobile Banking,2025-02-23
+Beef,Meat,199.48,2,398.96,Khulna,Card,2025-02-05
+Onion,Vegetable,92.24,9,830.16,Sylhet,Cash,2025-01-13
+Soap,Household,400.64,10,4006.4,Rajshahi,Mobile Banking,2025-02-04
+Milk,Dairy,86.73,2,173.46,Khulna,Card,2025-04-05
+Orange,Fruit,132.35,4,529.4,Chittagong,Card,2025-12-28
+Rice,Grocery,54.36,10,543.6,Barisal,Cash,2025-01-02
+Rice,Grocery,190.45,8,1523.6,Dhaka,Card,2025-05-24
+Milk,Dairy,238.43,3,715.29,Khulna,Cash,2025-05-30
+Banana,Fruit,132.55,1,132.55,Rajshahi,Mobile Banking,2025-12-15
+Potato,Vegetable,197.15,3,591.45,Chittagong,Mobile Banking,2025-06-18
+Banana,Fruit,287.17,7,2010.19,Khulna,Cash,2025-08-04
+Chicken,Meat,21.72,1,21.72,Dhaka,Card,2025-12-13
+Eggs,Dairy,396.87,6,2381.22,Barisal,Cash,2025-03-21
+Soap,Household,84.58,10,845.8,Rajshahi,Card,2025-03-23
+Onion,Vegetable,38.37,9,345.33,Dhaka,Cash,2025-03-06
+Shampoo,Household,337.53,1,337.53,Dhaka,Card,2025-05-12
+Chocolate,Snacks,228.96,3,686.88,Rajshahi,Mobile Banking,2025-09-09
+Chocolate,Snacks,171.77,3,515.31,Dhaka,Card,2025-08-27
+Chicken,Meat,87.85,5,439.25,Chittagong,Mobile Banking,2025-08-09
+Chicken,Meat,275.74,7,1930.18,Dhaka,Cash,2025-09-30
+Juice,Beverage,216.25,6,1297.5,Sylhet,Card,2025-09-22
+Apple,Fruit,185.33,2,370.66,Khulna,Cash,2025-01-25
+Milk,Dairy,362.95,2,725.9,Chittagong,Card,2025-02-28
+Juice,Beverage,160.55,9,1444.95,Barisal,Mobile Banking,2025-04-26
+Eggs,Dairy,199.68,10,1996.8,Khulna,Mobile Banking,2025-02-25
+Juice,Beverage,107.16,3,321.48,Sylhet,Card,2025-07-08
+Juice,Beverage,287.82,5,1439.1,Barisal,Cash,2025-01-18
+Beef,Meat,50.38,7,352.66,Dhaka,Card,2025-05-02
+Chicken,Meat,118.95,4,475.8,Chittagong,Card,2025-01-27
+Juice,Beverage,225.23,2,450.46,Rajshahi,Cash,2025-12-16
+Apple,Fruit,369.45,3,1108.35,Dhaka,Mobile Banking,2025-06-28
+Bread,Bakery,367.23,2,734.46,Barisal,Card,2025-04-11
+Chicken,Meat,353.55,4,1414.2,Barisal,Cash,2025-04-07
+Rice,Grocery,64.58,10,645.8,Dhaka,Cash,2025-12-14
+Orange,Fruit,162.02,3,486.06,Dhaka,Cash,2025-05-17
+Eggs,Dairy,75.01,7,525.07,Barisal,Mobile Banking,2025-03-02
+Orange,Fruit,278.43,10,2784.3,Chittagong,Mobile Banking,2025-10-07
+Potato,Vegetable,59.85,1,59.85,Chittagong,Cash,2025-08-05
+Beef,Meat,470.02,8,3760.16,Dhaka,Cash,2025-12-13
+Potato,Vegetable,169.07,1,169.07,Sylhet,Mobile Banking,2025-09-14
+Orange,Fruit,425.14,4,1700.56,Sylhet,Card,2025-04-24
+Beef,Meat,174.87,1,174.87,Chittagong,Cash,2025-03-10
+Rice,Grocery,253.31,10,2533.1,Sylhet,Card,2025-09-23
+Onion,Vegetable,414.71,7,2902.97,Rajshahi,Mobile Banking,2025-11-26
+Toothpaste,Household,177.29,1,177.29,Sylhet,Mobile Banking,2025-06-11
+Shampoo,Household,127.36,3,382.08,Sylhet,Card,2025-11-24
+Beef,Meat,154.95,4,619.8,Dhaka,Mobile Banking,2025-08-26
+Potato,Vegetable,255.46,4,1021.84,Sylhet,Card,2025-02-03
+Eggs,Dairy,319.99,4,1279.96,Rajshahi,Mobile Banking,2025-01-23
+Biscuits,Snacks,363.79,7,2546.53,Khulna,Card,2025-06-09
+Shampoo,Household,54.27,7,379.89,Dhaka,Card,2025-09-25
+Tomato,Vegetable,461.01,9,4149.09,Barisal,Cash,2025-08-09
+Rice,Grocery,114.29,10,1142.9,Khulna,Cash,2025-04-24
+Toothpaste,Household,207.02,4,828.08,Khulna,Card,2025-01-14
+Juice,Beverage,126.61,10,1266.1,Rajshahi,Card,2025-03-12
+Soft Drink,Beverage,491.17,3,1473.51,Khulna,Cash,2025-07-21
+Chicken,Meat,483.96,4,1935.84,Khulna,Cash,2025-01-26
+Eggs,Dairy,272.7,1,272.7,Dhaka,Cash,2025-06-04
+Chips,Snacks,291.19,9,2620.71,Barisal,Mobile Banking,2025-11-21
+Soft Drink,Beverage,316.18,8,2529.44,Barisal,Card,2025-02-06
+Rice,Grocery,386.65,2,773.3,Chittagong,Cash,2025-08-07
+Orange,Fruit,362.48,5,1812.4,Rajshahi,Card,2025-09-07
+Chips,Snacks,307.61,9,2768.49,Sylhet,Mobile Banking,2025-06-27
+Chips,Snacks,51.29,4,205.16,Sylhet,Cash,2025-11-10
+Milk,Dairy,334.99,10,3349.9,Dhaka,Mobile Banking,2025-09-17
+Toothpaste,Household,260.12,3,780.36,Chittagong,Cash,2025-02-23
+Juice,Beverage,49.46,2,98.92,Dhaka,Cash,2025-08-01
+Apple,Fruit,270.13,2,540.26,Chittagong,Card,2025-07-04
+Juice,Beverage,255.88,2,511.76,Rajshahi,Mobile Banking,2025-12-14
+Apple,Fruit,195.72,3,587.16,Sylhet,Cash,2025-02-10
+Toothpaste,Household,362.64,3,1087.92,Barisal,Mobile Banking,2025-05-15
+Onion,Vegetable,313.4,4,1253.6,Dhaka,Mobile Banking,2025-12-06
+Milk,Dairy,457.53,8,3660.24,Khulna,Mobile Banking,2025-07-20
+Chicken,Meat,250.18,8,2001.44,Rajshahi,Card,2025-03-28
+Chocolate,Snacks,307.21,9,2764.89,Khulna,Mobile Banking,2025-10-17
+Banana,Fruit,477.33,9,4295.97,Khulna,Mobile Banking,2025-08-24
+Beef,Meat,305.53,5,1527.65,Dhaka,Card,2025-11-06
+Orange,Fruit,122.68,4,490.72,Rajshahi,Cash,2025-09-01
+Juice,Beverage,278.72,7,1951.04,Dhaka,Mobile Banking,2025-12-06
+Rice,Grocery,61.83,9,556.47,Dhaka,Mobile Banking,2025-12-10
+Chocolate,Snacks,241.03,5,1205.15,Sylhet,Mobile Banking,2025-04-13
+Orange,Fruit,30.7,4,122.8,Barisal,Card,2025-10-16
+Chocolate,Snacks,80.98,2,161.96,Chittagong,Card,2025-12-20
+Eggs,Dairy,318.25,4,1273.0,Khulna,Card,2025-10-19
+Chocolate,Snacks,166.79,8,1334.32,Rajshahi,Card,2025-07-08
+Potato,Vegetable,366.04,8,2928.32,Dhaka,Card,2025-10-07
+Banana,Fruit,326.33,6,1957.98,Khulna,Mobile Banking,2025-06-19
+Chocolate,Snacks,241.21,6,1447.26,Barisal,Mobile Banking,2025-09-23
+Chocolate,Snacks,44.46,9,400.14,Chittagong,Cash,2025-10-17
+Beef,Meat,55.47,5,277.35,Sylhet,Card,2025-11-19
+Chicken,Meat,245.9,8,1967.2,Dhaka,Cash,2025-10-11
+Onion,Vegetable,268.91,9,2420.19,Dhaka,Card,2025-06-12
+Bread,Bakery,295.95,3,887.85,Dhaka,Mobile Banking,2025-08-04
+Banana,Fruit,351.13,9,3160.17,Rajshahi,Card,2025-01-13
+Chicken,Meat,262.16,4,1048.64,Barisal,Card,2025-01-12
+Chocolate,Snacks,23.38,7,163.66,Dhaka,Cash,2025-11-08
+Eggs,Dairy,267.47,10,2674.7,Barisal,Mobile Banking,2025-02-17
+Potato,Vegetable,439.21,2,878.42,Rajshahi,Card,2025-12-17
+Chocolate,Snacks,139.95,3,419.85,Rajshahi,Mobile Banking,2025-12-21
+Shampoo,Household,450.37,3,1351.11,Khulna,Card,2025-12-11
+Beef,Meat,378.91,5,1894.55,Dhaka,Card,2025-01-29
+Tomato,Vegetable,47.1,1,47.1,Chittagong,Mobile Banking,2025-01-07
+Potato,Vegetable,71.64,5,358.2,Dhaka,Mobile Banking,2025-03-13
+Rice,Grocery,40.09,6,240.54,Chittagong,Mobile Banking,2025-05-09
+Biscuits,Snacks,92.61,9,833.49,Khulna,Cash,2025-03-19
+Eggs,Dairy,346.73,1,346.73,Rajshahi,Card,2025-09-06
+Chicken,Meat,223.1,4,892.4,Dhaka,Mobile Banking,2025-06-01
+Orange,Fruit,197.87,10,1978.7,Khulna,Cash,2025-10-09
+Soft Drink,Beverage,359.99,3,1079.97,Sylhet,Cash,2025-01-05
+Biscuits,Snacks,87.71,4,350.84,Barisal,Mobile Banking,2025-07-20
+Rice,Grocery,304.01,6,1824.06,Dhaka,Mobile Banking,2025-11-16
+Onion,Vegetable,96.8,7,677.6,Chittagong,Mobile Banking,2025-11-28
+Orange,Fruit,80.29,6,481.74,Barisal,Mobile Banking,2025-08-14
+Banana,Fruit,235.47,10,2354.7,Sylhet,Card,2025-12-14
+Shampoo,Household,153.61,6,921.66,Khulna,Card,2025-09-03
+Shampoo,Household,488.82,7,3421.74,Khulna,Cash,2025-04-07
+Chips,Snacks,448.14,8,3585.12,Khulna,Card,2025-07-08
+Milk,Dairy,157.9,4,631.6,Sylhet,Cash,2025-08-31
+Juice,Beverage,287.16,10,2871.6,Sylhet,Mobile Banking,2025-06-17
+Chocolate,Snacks,26.67,3,80.01,Barisal,Card,2025-02-23
+Potato,Vegetable,383.53,9,3451.77,Dhaka,Cash,2025-08-02
+Juice,Beverage,439.47,3,1318.41,Chittagong,Mobile Banking,2025-06-06
+Orange,Fruit,315.64,7,2209.48,Barisal,Card,2025-04-15
+Bread,Bakery,238.13,3,714.39,Rajshahi,Card,2025-01-17
+Toothpaste,Household,148.12,8,1184.96,Chittagong,Mobile Banking,2025-01-27
+Milk,Dairy,64.78,6,388.68,Barisal,Mobile Banking,2025-12-06
+Rice,Grocery,496.97,9,4472.73,Sylhet,Card,2025-12-06
+Banana,Fruit,112.92,8,903.36,Barisal,Mobile Banking,2025-09-11
+Toothpaste,Household,28.35,8,226.8,Chittagong,Card,2025-05-05
+Soft Drink,Beverage,232.02,1,232.02,Barisal,Mobile Banking,2025-10-04
+Milk,Dairy,263.87,3,791.61,Dhaka,Mobile Banking,2025-04-17
+Apple,Fruit,277.42,5,1387.1,Sylhet,Mobile Banking,2025-03-11
+Shampoo,Household,375.76,4,1503.04,Sylhet,Card,2025-01-30
+Rice,Grocery,328.42,6,1970.52,Dhaka,Mobile Banking,2025-04-27
+Milk,Dairy,498.15,8,3985.2,Dhaka,Card,2025-08-23
+Chocolate,Snacks,99.86,6,599.16,Dhaka,Card,2025-01-22
+Tomato,Vegetable,62.34,7,436.38,Khulna,Cash,2025-04-06
+Rice,Grocery,62.0,10,620.0,Khulna,Card,2025-03-13
+Bread,Bakery,409.81,6,2458.86,Rajshahi,Card,2025-09-13
+Bread,Bakery,284.22,4,1136.88,Sylhet,Cash,2025-02-23
+Juice,Beverage,437.63,9,3938.67,Rajshahi,Cash,2025-10-19
+Toothpaste,Household,335.26,9,3017.34,Sylhet,Mobile Banking,2025-10-06
+Potato,Vegetable,499.55,10,4995.5,Chittagong,Card,2025-04-26
+Banana,Fruit,55.19,1,55.19,Sylhet,Cash,2025-05-28
+Bread,Bakery,417.34,6,2504.04,Dhaka,Card,2025-08-13
+Chicken,Meat,22.08,2,44.16,Sylhet,Card,2025-11-28
+Chocolate,Snacks,202.57,6,1215.42,Chittagong,Card,2025-04-06
+Juice,Beverage,235.88,1,235.88,Barisal,Card,2025-03-21
+Onion,Vegetable,42.24,8,337.92,Khulna,Mobile Banking,2025-08-14
+Shampoo,Household,440.16,4,1760.64,Sylhet,Cash,2025-12-10
+Chicken,Meat,129.65,10,1296.5,Chittagong,Cash,2025-10-29
+Chicken,Meat,260.16,10,2601.6,Khulna,Cash,2025-04-29
+Potato,Vegetable,384.47,4,1537.88,Rajshahi,Cash,2025-12-10
+Milk,Dairy,286.06,5,1430.3,Sylhet,Cash,2025-10-15
+Chocolate,Snacks,488.72,5,2443.6,Barisal,Mobile Banking,2025-08-19
+Apple,Fruit,459.44,10,4594.4,Sylhet,Cash,2025-05-07
+Eggs,Dairy,285.03,9,2565.27,Chittagong,Cash,2025-10-08
+Soft Drink,Beverage,72.63,2,145.26,Chittagong,Card,2025-04-28
+Chicken,Meat,432.19,8,3457.52,Barisal,Card,2025-07-14
+Eggs,Dairy,456.64,5,2283.2,Barisal,Card,2025-05-09
+Apple,Fruit,347.16,5,1735.8,Rajshahi,Cash,2025-08-13
+Apple,Fruit,184.15,6,1104.9,Sylhet,Cash,2025-10-21
+Chocolate,Snacks,313.6,9,2822.4,Chittagong,Cash,2025-11-16
+Toothpaste,Household,459.01,1,459.01,Chittagong,Mobile Banking,2025-10-19
+Bread,Bakery,323.65,1,323.65,Sylhet,Mobile Banking,2025-06-16
+Juice,Beverage,234.28,8,1874.24,Barisal,Cash,2025-11-21
+Orange,Fruit,406.52,5,2032.6,Rajshahi,Card,2025-12-21
+Potato,Vegetable,95.57,6,573.42,Khulna,Mobile Banking,2025-08-05
+Eggs,Dairy,170.63,7,1194.41,Rajshahi,Card,2025-01-08
+Chicken,Meat,223.46,8,1787.68,Barisal,Card,2025-05-13
+Soft Drink,Beverage,411.07,3,1233.21,Chittagong,Mobile Banking,2025-09-11
+Soft Drink,Beverage,135.82,10,1358.2,Khulna,Mobile Banking,2025-09-12
+Juice,Beverage,157.1,6,942.6,Dhaka,Card,2025-08-05
+Chocolate,Snacks,344.92,1,344.92,Chittagong,Cash,2025-04-03
+Potato,Vegetable,180.21,1,180.21,Khulna,Card,2025-09-28
+Shampoo,Household,245.8,6,1474.8,Chittagong,Card,2025-05-20
+Chips,Snacks,422.59,7,2958.13,Rajshahi,Mobile Banking,2025-09-06
+Tomato,Vegetable,203.94,1,203.94,Chittagong,Cash,2025-05-13
+Eggs,Dairy,201.09,6,1206.54,Khulna,Cash,2025-04-18
+Soap,Household,410.08,5,2050.4,Dhaka,Cash,2025-06-24
+Soap,Household,293.74,5,1468.7,Rajshahi,Cash,2025-07-31
+Chicken,Meat,390.66,5,1953.3,Khulna,Cash,2025-06-09
+Eggs,Dairy,154.23,5,771.15,Barisal,Cash,2025-09-24
+Eggs,Dairy,55.55,8,444.4,Khulna,Mobile Banking,2025-07-06
+Milk,Dairy,198.41,5,992.05,Khulna,Cash,2025-05-29
+Milk,Dairy,366.22,5,1831.1,Sylhet,Cash,2025-12-17
+Potato,Vegetable,257.45,6,1544.7,Barisal,Cash,2025-01-28
+Chocolate,Snacks,194.91,3,584.73,Khulna,Cash,2025-07-27
+Rice,Grocery,404.97,1,404.97,Dhaka,Card,2025-09-04
+Chocolate,Snacks,396.66,2,793.32,Khulna,Mobile Banking,2025-07-24
+Bread,Bakery,44.4,10,444.0,Dhaka,Card,2025-07-19
+Potato,Vegetable,332.92,3,998.76,Khulna,Mobile Banking,2025-02-03
+Bread,Bakery,322.39,2,644.78,Khulna,Card,2025-06-27
+Eggs,Dairy,399.51,1,399.51,Chittagong,Mobile Banking,2025-12-17
+Tomato,Vegetable,469.31,9,4223.79,Barisal,Mobile Banking,2025-11-10
+Tomato,Vegetable,389.68,3,1169.04,Chittagong,Cash,2025-07-03
+Juice,Beverage,465.55,8,3724.4,Sylhet,Cash,2025-08-16
+Shampoo,Household,391.19,1,391.19,Chittagong,Mobile Banking,2025-04-25
+Onion,Vegetable,409.94,2,819.88,Rajshahi,Card,2025-11-08
+Tomato,Vegetable,427.25,2,854.5,Rajshahi,Cash,2025-06-26
+Soap,Household,48.32,4,193.28,Khulna,Mobile Banking,2025-05-27
+Tomato,Vegetable,484.72,2,969.44,Barisal,Mobile Banking,2025-03-29
+Chips,Snacks,432.18,9,3889.62,Chittagong,Mobile Banking,2025-05-22
+Toothpaste,Household,266.06,2,532.12,Khulna,Cash,2025-06-08
+Soft Drink,Beverage,166.18,6,997.08,Chittagong,Cash,2025-06-14
+Soft Drink,Beverage,64.44,2,128.88,Chittagong,Card,2025-11-17
+Soft Drink,Beverage,269.52,9,2425.68,Khulna,Mobile Banking,2025-08-27
+Soft Drink,Beverage,276.39,10,2763.9,Dhaka,Card,2025-06-20
+Chips,Snacks,269.01,9,2421.09,Barisal,Mobile Banking,2025-02-14
+Toothpaste,Household,315.13,6,1890.78,Khulna,Cash,2025-05-04
+Rice,Grocery,469.38,10,4693.8,Dhaka,Cash,2025-10-05
+Potato,Vegetable,450.81,8,3606.48,Barisal,Card,2025-04-08
+Milk,Dairy,43.84,8,350.72,Chittagong,Cash,2025-11-08
+Orange,Fruit,44.75,8,358.0,Khulna,Cash,2025-04-19
+Chips,Snacks,281.87,8,2254.96,Dhaka,Mobile Banking,2025-08-24
+Biscuits,Snacks,230.91,8,1847.28,Rajshahi,Mobile Banking,2025-11-18
+Apple,Fruit,417.75,6,2506.5,Dhaka,Mobile Banking,2025-12-20
+Soap,Household,330.89,7,2316.23,Khulna,Mobile Banking,2025-03-16
+Soft Drink,Beverage,181.24,10,1812.4,Khulna,Cash,2025-02-02
+Milk,Dairy,74.94,1,74.94,Rajshahi,Cash,2025-08-18
+Chicken,Meat,92.72,8,741.76,Barisal,Mobile Banking,2025-07-08
+Chocolate,Snacks,187.82,10,1878.2,Dhaka,Mobile Banking,2025-12-28
+Apple,Fruit,205.59,2,411.18,Khulna,Cash,2025-06-01
+Rice,Grocery,113.21,5,566.05,Barisal,Cash,2025-05-03
+Tomato,Vegetable,310.5,7,2173.5,Khulna,Card,2025-11-24
+Tomato,Vegetable,78.39,7,548.73,Dhaka,Card,2025-01-24
+Beef,Meat,365.42,4,1461.68,Chittagong,Mobile Banking,2025-01-27
+Eggs,Dairy,159.99,9,1439.91,Barisal,Mobile Banking,2025-11-23
+Toothpaste,Household,367.06,10,3670.6,Rajshahi,Mobile Banking,2025-03-22
+Soap,Household,336.34,4,1345.36,Rajshahi,Card,2025-08-12
+Chocolate,Snacks,409.44,5,2047.2,Sylhet,Cash,2025-09-11
+Soft Drink,Beverage,371.05,8,2968.4,Barisal,Cash,2025-08-05
+Soap,Household,199.72,6,1198.32,Sylhet,Cash,2025-10-15
+Potato,Vegetable,316.89,7,2218.23,Dhaka,Cash,2025-07-11
+Soft Drink,Beverage,446.98,8,3575.84,Chittagong,Mobile Banking,2025-08-26
+Banana,Fruit,470.67,4,1882.68,Chittagong,Mobile Banking,2025-12-26
+Bread,Bakery,256.02,9,2304.18,Chittagong,Mobile Banking,2025-03-25
+Orange,Fruit,202.82,2,405.64,Khulna,Mobile Banking,2025-01-26
+Eggs,Dairy,401.91,2,803.82,Khulna,Mobile Banking,2025-08-18
+Banana,Fruit,289.85,8,2318.8,Chittagong,Mobile Banking,2025-09-15
+Orange,Fruit,429.15,7,3004.05,Sylhet,Cash,2025-10-06
+Soft Drink,Beverage,220.76,8,1766.08,Khulna,Mobile Banking,2025-05-16
+Potato,Vegetable,422.93,2,845.86,Khulna,Mobile Banking,2025-03-15
+Onion,Vegetable,188.93,10,1889.3,Khulna,Mobile Banking,2025-11-22
+Rice,Grocery,245.14,7,1715.98,Barisal,Card,2025-01-01
+Milk,Dairy,21.92,2,43.84,Chittagong,Cash,2025-07-23
+Biscuits,Snacks,387.19,8,3097.52,Khulna,Mobile Banking,2025-09-25
+Shampoo,Household,499.07,5,2495.35,Chittagong,Card,2025-06-28
+Apple,Fruit,305.48,8,2443.84,Barisal,Card,2025-01-08
+Tomato,Vegetable,384.74,10,3847.4,Rajshahi,Cash,2025-08-14
+Chocolate,Snacks,141.68,9,1275.12,Barisal,Mobile Banking,2025-06-03
+Apple,Fruit,209.72,10,2097.2,Dhaka,Cash,2025-03-04
+Bread,Bakery,203.86,4,815.44,Sylhet,Cash,2025-12-03
+Shampoo,Household,95.55,5,477.75,Barisal,Card,2025-02-21
+Chocolate,Snacks,249.16,4,996.64,Sylhet,Card,2025-08-11
+Biscuits,Snacks,237.79,2,475.58,Chittagong,Cash,2025-02-17
+Potato,Vegetable,141.62,9,1274.58,Barisal,Mobile Banking,2025-11-11
+Beef,Meat,289.48,5,1447.4,Rajshahi,Card,2025-03-27
+Onion,Vegetable,480.28,5,2401.4,Dhaka,Cash,2025-09-04
+Potato,Vegetable,64.67,5,323.35,Barisal,Card,2025-10-03
+Biscuits,Snacks,346.73,9,3120.57,Barisal,Mobile Banking,2025-04-12
+Milk,Dairy,355.02,1,355.02,Barisal,Cash,2025-05-06
+Biscuits,Snacks,103.83,2,207.66,Sylhet,Card,2025-11-02
+Eggs,Dairy,275.35,5,1376.75,Sylhet,Card,2025-10-29
+Toothpaste,Household,91.94,8,735.52,Chittagong,Card,2025-08-14
+Rice,Grocery,445.87,10,4458.7,Sylhet,Card,2025-05-24
+Soap,Household,199.0,3,597.0,Rajshahi,Mobile Banking,2025-09-04
+Apple,Fruit,396.18,9,3565.62,Chittagong,Mobile Banking,2025-10-29
+Toothpaste,Household,22.77,1,22.77,Sylhet,Card,2025-04-26
+Soft Drink,Beverage,483.14,7,3381.98,Rajshahi,Card,2025-02-19
+Chocolate,Snacks,264.87,7,1854.09,Chittagong,Mobile Banking,2025-07-13
+Onion,Vegetable,173.69,5,868.45,Chittagong,Card,2025-02-26
+Bread,Bakery,307.67,5,1538.35,Dhaka,Card,2025-03-06
+Milk,Dairy,160.6,6,963.6,Khulna,Cash,2025-08-11
+Tomato,Vegetable,258.82,10,2588.2,Khulna,Cash,2025-09-29
+Milk,Dairy,421.79,9,3796.11,Khulna,Cash,2025-11-29
+Shampoo,Household,66.44,5,332.2,Sylhet,Card,2025-11-17
+Chips,Snacks,130.33,1,130.33,Chittagong,Cash,2025-12-01
+Chocolate,Snacks,427.33,5,2136.65,Rajshahi,Cash,2025-06-19
+Milk,Dairy,81.91,2,163.82,Chittagong,Cash,2025-05-06
+Apple,Fruit,486.96,2,973.92,Barisal,Card,2025-02-24
+Eggs,Dairy,417.34,8,3338.72,Chittagong,Card,2025-04-09
+Chocolate,Snacks,161.5,7,1130.5,Sylhet,Cash,2025-10-27
+Soap,Household,222.85,2,445.7,Chittagong,Cash,2025-11-04
+Soap,Household,187.59,8,1500.72,Dhaka,Cash,2025-01-20
+Milk,Dairy,227.48,3,682.44,Khulna,Mobile Banking,2025-09-13
+Bread,Bakery,209.92,9,1889.28,Barisal,Mobile Banking,2025-06-10
+Beef,Meat,482.1,5,2410.5,Sylhet,Cash,2025-02-21
+Chocolate,Snacks,90.89,7,636.23,Dhaka,Mobile Banking,2025-04-07
+Tomato,Vegetable,272.1,4,1088.4,Rajshahi,Mobile Banking,2025-05-23
+Soap,Household,267.8,5,1339.0,Chittagong,Card,2025-07-23
+Eggs,Dairy,26.85,1,26.85,Khulna,Cash,2025-12-29
+Chips,Snacks,212.42,9,1911.78,Rajshahi,Cash,2025-01-25
+Onion,Vegetable,187.32,7,1311.24,Khulna,Mobile Banking,2025-10-04
+Orange,Fruit,41.6,8,332.8,Sylhet,Card,2025-07-26
+Soft Drink,Beverage,358.21,7,2507.47,Rajshahi,Card,2025-12-20
+Soap,Household,366.82,4,1467.28,Chittagong,Cash,2025-12-29
+Juice,Beverage,48.93,10,489.3,Sylhet,Cash,2025-08-08
+Bread,Bakery,423.58,1,423.58,Khulna,Card,2025-05-03
+Chicken,Meat,462.51,2,925.02,Rajshahi,Mobile Banking,2025-03-25
+Milk,Dairy,227.69,9,2049.21,Sylhet,Cash,2025-12-22
+Beef,Meat,114.04,7,798.28,Dhaka,Mobile Banking,2025-10-22
+Eggs,Dairy,40.74,4,162.96,Rajshahi,Card,2025-02-16
+Shampoo,Household,497.71,7,3483.97,Sylhet,Cash,2025-12-22
+Chicken,Meat,329.79,8,2638.32,Sylhet,Cash,2025-11-11
+Shampoo,Household,491.75,10,4917.5,Chittagong,Mobile Banking,2025-08-04
+Chips,Snacks,320.24,2,640.48,Barisal,Mobile Banking,2025-05-17
+Potato,Vegetable,326.73,4,1306.92,Rajshahi,Mobile Banking,2025-07-14
+Orange,Fruit,27.61,6,165.66,Rajshahi,Card,2025-06-12
+Chips,Snacks,159.17,7,1114.19,Dhaka,Card,2025-10-13
+Soap,Household,444.96,1,444.96,Sylhet,Mobile Banking,2025-11-10
+Milk,Dairy,116.89,7,818.23,Dhaka,Card,2025-12-12
+Eggs,Dairy,406.18,7,2843.26,Barisal,Cash,2025-11-27
+Onion,Vegetable,259.18,9,2332.62,Chittagong,Card,2025-09-27
+Shampoo,Household,136.73,7,957.11,Rajshahi,Card,2025-10-14
+Toothpaste,Household,67.79,3,203.37,Sylhet,Mobile Banking,2025-05-23
+Potato,Vegetable,242.63,9,2183.67,Dhaka,Card,2025-04-30
+Onion,Vegetable,237.91,4,951.64,Sylhet,Cash,2025-11-12
+Shampoo,Household,110.83,3,332.49,Dhaka,Cash,2025-06-13
+Tomato,Vegetable,133.53,8,1068.24,Sylhet,Card,2025-12-12
+Toothpaste,Household,494.38,1,494.38,Chittagong,Card,2025-12-11
+Toothpaste,Household,355.95,2,711.9,Dhaka,Cash,2025-05-11
+Juice,Beverage,466.15,5,2330.75,Chittagong,Mobile Banking,2025-01-26
+Shampoo,Household,197.39,7,1381.73,Barisal,Mobile Banking,2025-09-13
+Soft Drink,Beverage,142.33,7,996.31,Khulna,Mobile Banking,2025-03-29
+Rice,Grocery,22.82,4,91.28,Sylhet,Cash,2025-06-07
+Shampoo,Household,114.97,7,804.79,Khulna,Mobile Banking,2025-02-01
+Juice,Beverage,494.13,4,1976.52,Rajshahi,Cash,2025-04-15
+Chicken,Meat,64.91,4,259.64,Barisal,Card,2025-03-31
+Juice,Beverage,134.86,4,539.44,Rajshahi,Card,2025-03-15
+Toothpaste,Household,367.98,4,1471.92,Barisal,Mobile Banking,2025-09-04
+Biscuits,Snacks,47.22,8,377.76,Chittagong,Card,2025-05-14
+Milk,Dairy,471.5,2,943.0,Chittagong,Card,2025-01-14
+Shampoo,Household,254.56,6,1527.36,Barisal,Card,2025-08-05
+Orange,Fruit,86.01,5,430.05,Dhaka,Mobile Banking,2025-09-24
+Milk,Dairy,346.69,1,346.69,Khulna,Card,2025-07-27
+Eggs,Dairy,208.43,3,625.29,Sylhet,Card,2025-02-13
+Biscuits,Snacks,419.57,9,3776.13,Khulna,Card,2025-01-24
+Chicken,Meat,190.65,4,762.6,Khulna,Mobile Banking,2025-09-30
+Biscuits,Snacks,39.66,9,356.94,Barisal,Cash,2025-12-19
+Chicken,Meat,349.8,2,699.6,Rajshahi,Mobile Banking,2025-01-09
+Orange,Fruit,436.82,7,3057.74,Dhaka,Cash,2025-02-10
+Potato,Vegetable,319.85,10,3198.5,Sylhet,Card,2025-12-09
+Onion,Vegetable,220.38,3,661.14,Rajshahi,Card,2025-02-18
+Shampoo,Household,34.73,10,347.3,Chittagong,Mobile Banking,2025-01-09
+Soft Drink,Beverage,480.07,6,2880.42,Barisal,Card,2025-04-28
+Biscuits,Snacks,450.64,9,4055.76,Dhaka,Cash,2025-06-29
+Banana,Fruit,408.92,4,1635.68,Dhaka,Cash,2025-05-27
+Apple,Fruit,351.3,2,702.6,Rajshahi,Card,2025-03-16
+Banana,Fruit,75.0,2,150.0,Dhaka,Cash,2025-05-01
+Banana,Fruit,222.08,8,1776.64,Rajshahi,Mobile Banking,2025-11-04
+Soap,Household,352.6,6,2115.6,Khulna,Card,2025-07-21
+Eggs,Dairy,432.69,7,3028.83,Khulna,Mobile Banking,2025-09-05
+Apple,Fruit,349.64,7,2447.48,Sylhet,Mobile Banking,2025-09-22
+Chips,Snacks,68.7,9,618.3,Sylhet,Cash,2025-01-20
+Apple,Fruit,285.05,3,855.15,Dhaka,Cash,2025-04-13
+Milk,Dairy,228.31,3,684.93,Rajshahi,Mobile Banking,2025-04-08
+Chocolate,Snacks,319.98,2,639.96,Dhaka,Card,2026-01-01
+Orange,Fruit,415.56,5,2077.8,Dhaka,Card,2025-04-26
+Eggs,Dairy,442.23,3,1326.69,Chittagong,Card,2025-06-20
+Chocolate,Snacks,95.23,8,761.84,Rajshahi,Card,2025-03-20
+Chips,Snacks,414.32,4,1657.28,Chittagong,Cash,2025-10-15
+Bread,Bakery,59.69,8,477.52,Rajshahi,Mobile Banking,2025-08-20
+Chips,Snacks,412.06,4,1648.24,Khulna,Card,2025-02-06
+Bread,Bakery,63.64,7,445.48,Chittagong,Mobile Banking,2025-05-23
+Apple,Fruit,76.46,10,764.6,Chittagong,Card,2025-02-26
+Apple,Fruit,258.2,8,2065.6,Chittagong,Card,2025-08-27
+Beef,Meat,249.72,9,2247.48,Barisal,Card,2025-04-11
+Potato,Vegetable,299.95,4,1199.8,Khulna,Card,2025-01-10
+Rice,Grocery,153.82,1,153.82,Chittagong,Mobile Banking,2025-08-02
+Soap,Household,321.32,3,963.96,Barisal,Mobile Banking,2025-12-06
+Milk,Dairy,480.49,1,480.49,Dhaka,Cash,2025-07-28
+Onion,Vegetable,277.38,7,1941.66,Dhaka,Cash,2025-06-19
+Potato,Vegetable,204.29,10,2042.9,Sylhet,Card,2025-10-09
+Orange,Fruit,94.65,2,189.3,Sylhet,Mobile Banking,2025-07-04
+Onion,Vegetable,90.97,4,363.88,Rajshahi,Card,2025-03-22
+Orange,Fruit,110.63,5,553.15,Rajshahi,Mobile Banking,2025-01-03
+Milk,Dairy,88.95,8,711.6,Dhaka,Card,2025-12-16
+Shampoo,Household,376.06,6,2256.36,Chittagong,Mobile Banking,2025-10-27
+Orange,Fruit,490.2,1,490.2,Chittagong,Cash,2025-05-12
+Orange,Fruit,151.42,3,454.26,Sylhet,Card,2025-12-19
+Tomato,Vegetable,314.3,5,1571.5,Rajshahi,Card,2025-07-28
+Banana,Fruit,127.31,7,891.17,Sylhet,Cash,2025-12-26
+Tomato,Vegetable,140.04,7,980.28,Chittagong,Card,2025-07-29
+Apple,Fruit,220.08,9,1980.72,Barisal,Card,2025-09-27
+Toothpaste,Household,191.62,4,766.48,Barisal,Mobile Banking,2025-08-04
+Apple,Fruit,317.01,1,317.01,Barisal,Cash,2025-01-07
+Bread,Bakery,155.33,4,621.32,Khulna,Cash,2025-04-12
+Onion,Vegetable,108.99,8,871.92,Barisal,Cash,2025-01-25
+Biscuits,Snacks,122.63,10,1226.3,Sylhet,Mobile Banking,2025-07-05
+Juice,Beverage,371.37,4,1485.48,Dhaka,Cash,2025-05-10
+Chicken,Meat,363.72,9,3273.48,Dhaka,Card,2025-06-24
+Banana,Fruit,107.99,5,539.95,Rajshahi,Mobile Banking,2025-04-04
+Shampoo,Household,26.89,9,242.01,Barisal,Mobile Banking,2025-03-18
+Milk,Dairy,34.94,1,34.94,Rajshahi,Cash,2025-04-24
+Banana,Fruit,147.09,8,1176.72,Sylhet,Mobile Banking,2025-10-07
+Onion,Vegetable,414.63,5,2073.15,Dhaka,Mobile Banking,2025-07-14
+Tomato,Vegetable,201.76,8,1614.08,Dhaka,Mobile Banking,2025-06-26
+Toothpaste,Household,125.26,2,250.52,Khulna,Mobile Banking,2025-10-16
+Rice,Grocery,21.63,7,151.41,Rajshahi,Cash,2025-05-12
+Eggs,Dairy,366.31,6,2197.86,Chittagong,Card,2025-11-02
+Banana,Fruit,372.38,2,744.76,Chittagong,Mobile Banking,2025-09-08
+Soap,Household,420.01,3,1260.03,Sylhet,Cash,2025-10-21
+Milk,Dairy,365.59,4,1462.36,Khulna,Cash,2025-07-02
+Orange,Fruit,40.87,5,204.35,Chittagong,Cash,2025-03-22
+Rice,Grocery,341.35,1,341.35,Khulna,Card,2025-10-22
+Orange,Fruit,266.85,8,2134.8,Khulna,Card,2025-04-21
+Orange,Fruit,454.62,1,454.62,Dhaka,Mobile Banking,2025-03-16
+Milk,Dairy,142.17,4,568.68,Dhaka,Mobile Banking,2025-12-15
+Milk,Dairy,239.39,2,478.78,Rajshahi,Mobile Banking,2025-01-06
+Beef,Meat,131.63,2,263.26,Barisal,Mobile Banking,2025-04-02
+Beef,Meat,59.65,9,536.85,Chittagong,Card,2025-05-22
+Tomato,Vegetable,274.37,3,823.11,Chittagong,Mobile Banking,2025-07-29
+Bread,Bakery,191.08,4,764.32,Dhaka,Mobile Banking,2025-12-22
+Shampoo,Household,339.74,5,1698.7,Chittagong,Card,2025-01-19
+Rice,Grocery,440.29,6,2641.74,Rajshahi,Cash,2025-09-08
+Shampoo,Household,484.03,2,968.06,Rajshahi,Mobile Banking,2025-02-05
+Chips,Snacks,144.63,7,1012.41,Dhaka,Card,2025-04-30
+Tomato,Vegetable,471.18,5,2355.9,Khulna,Mobile Banking,2025-05-30
+Soap,Household,411.44,8,3291.52,Dhaka,Card,2025-03-15
+Milk,Dairy,42.7,5,213.5,Rajshahi,Card,2025-07-27
+Onion,Vegetable,293.7,8,2349.6,Chittagong,Mobile Banking,2025-08-14
+Biscuits,Snacks,400.99,5,2004.95,Chittagong,Card,2025-09-04
+Orange,Fruit,473.44,8,3787.52,Sylhet,Card,2025-06-29
+Milk,Dairy,361.76,5,1808.8,Chittagong,Mobile Banking,2025-09-29
+Apple,Fruit,298.43,1,298.43,Rajshahi,Card,2025-03-05
+Soft Drink,Beverage,376.64,8,3013.12,Dhaka,Cash,2025-12-11
+Soft Drink,Beverage,255.6,3,766.8,Barisal,Cash,2025-07-13
+Apple,Fruit,94.5,5,472.5,Sylhet,Mobile Banking,2025-06-18
+Banana,Fruit,316.02,4,1264.08,Sylhet,Mobile Banking,2025-09-26
+Eggs,Dairy,469.3,8,3754.4,Chittagong,Cash,2025-07-22
+Juice,Beverage,46.38,5,231.9,Barisal,Cash,2025-07-22
+Soap,Household,202.44,8,1619.52,Rajshahi,Mobile Banking,2025-06-30
+Banana,Fruit,433.31,4,1733.24,Rajshahi,Cash,2025-01-17
+Juice,Beverage,470.37,2,940.74,Rajshahi,Mobile Banking,2025-07-27
+Juice,Beverage,372.01,9,3348.09,Khulna,Mobile Banking,2025-10-08
+Soap,Household,329.14,4,1316.56,Chittagong,Card,2025-10-10
+Soft Drink,Beverage,495.6,3,1486.8,Rajshahi,Card,2025-02-24
+Potato,Vegetable,24.8,4,99.2,Chittagong,Mobile Banking,2025-09-18
+Onion,Vegetable,143.3,10,1433.0,Rajshahi,Mobile Banking,2025-10-11
+Toothpaste,Household,467.6,2,935.2,Sylhet,Cash,2025-05-06
+Onion,Vegetable,222.08,2,444.16,Rajshahi,Mobile Banking,2025-02-22
+Orange,Fruit,329.58,3,988.74,Dhaka,Mobile Banking,2025-12-10
+Rice,Grocery,79.51,8,636.08,Khulna,Cash,2025-10-13
+Banana,Fruit,43.14,8,345.12,Dhaka,Card,2025-08-20
+Juice,Beverage,284.24,7,1989.68,Dhaka,Card,2025-09-05
+Potato,Vegetable,178.89,6,1073.34,Dhaka,Card,2025-03-24
+Chicken,Meat,177.91,6,1067.46,Rajshahi,Cash,2025-01-27
+Potato,Vegetable,335.59,5,1677.95,Khulna,Cash,2025-02-19
+Onion,Vegetable,402.55,10,4025.5,Dhaka,Card,2025-08-12
+Apple,Fruit,467.21,6,2803.26,Chittagong,Card,2025-10-02
+Orange,Fruit,350.95,7,2456.65,Khulna,Cash,2025-08-14
+Tomato,Vegetable,441.99,9,3977.91,Chittagong,Card,2025-03-05
+Chicken,Meat,120.07,8,960.56,Khulna,Cash,2025-05-03
+Chocolate,Snacks,120.61,1,120.61,Chittagong,Cash,2025-08-19
+Chocolate,Snacks,253.3,4,1013.2,Sylhet,Card,2025-05-01
+Rice,Grocery,416.53,7,2915.71,Sylhet,Mobile Banking,2025-02-03
+Toothpaste,Household,268.82,2,537.64,Rajshahi,Mobile Banking,2025-12-12
+Orange,Fruit,285.02,2,570.04,Rajshahi,Cash,2025-06-29
+Beef,Meat,379.35,2,758.7,Barisal,Mobile Banking,2025-05-18
+Apple,Fruit,454.68,6,2728.08,Khulna,Card,2025-05-12
+Tomato,Vegetable,197.77,1,197.77,Rajshahi,Mobile Banking,2025-02-09
+Bread,Bakery,332.01,10,3320.1,Chittagong,Cash,2025-12-14
+Beef,Meat,286.96,5,1434.8,Rajshahi,Card,2025-08-02
+Orange,Fruit,22.5,9,202.5,Khulna,Cash,2025-10-23
+Shampoo,Household,109.05,3,327.15,Rajshahi,Card,2025-12-27
+Juice,Beverage,403.13,7,2821.91,Chittagong,Cash,2025-12-28
+Chicken,Meat,303.31,1,303.31,Barisal,Mobile Banking,2025-02-23
+Eggs,Dairy,435.34,8,3482.72,Dhaka,Mobile Banking,2025-12-27
+Juice,Beverage,158.74,9,1428.66,Sylhet,Cash,2025-07-13
+Banana,Fruit,266.58,1,266.58,Dhaka,Mobile Banking,2025-04-09
+Chicken,Meat,232.89,8,1863.12,Dhaka,Card,2025-01-19
+Soap,Household,120.37,10,1203.7,Dhaka,Mobile Banking,2025-09-12
+Shampoo,Household,110.58,5,552.9,Chittagong,Card,2025-05-03
+Biscuits,Snacks,112.51,9,1012.59,Khulna,Cash,2025-05-09
+Banana,Fruit,275.02,7,1925.14,Khulna,Cash,2025-04-16
+Onion,Vegetable,174.41,10,1744.1,Chittagong,Cash,2025-07-10
+Shampoo,Household,131.21,3,393.63,Rajshahi,Card,2025-04-05
+Chocolate,Snacks,180.91,2,361.82,Sylhet,Cash,2025-04-18
+Biscuits,Snacks,388.09,3,1164.27,Dhaka,Card,2025-06-12
+Tomato,Vegetable,231.65,4,926.6,Barisal,Mobile Banking,2025-12-01
+Milk,Dairy,237.55,1,237.55,Rajshahi,Card,2025-05-11
+Onion,Vegetable,428.71,1,428.71,Khulna,Card,2025-06-04
+Eggs,Dairy,430.62,4,1722.48,Khulna,Card,2025-06-25
+Potato,Vegetable,263.51,6,1581.06,Chittagong,Cash,2025-11-07
+Biscuits,Snacks,43.72,2,87.44,Khulna,Card,2025-06-19
+Milk,Dairy,241.48,9,2173.32,Dhaka,Mobile Banking,2025-08-23
+Banana,Fruit,202.74,7,1419.18,Barisal,Card,2025-02-10
+Soap,Household,342.08,1,342.08,Chittagong,Mobile Banking,2025-09-04
+Chocolate,Snacks,98.63,9,887.67,Rajshahi,Mobile Banking,2025-05-07
+Chocolate,Snacks,486.81,3,1460.43,Sylhet,Card,2025-12-25
+Toothpaste,Household,51.99,8,415.92,Barisal,Card,2025-09-14
+Chicken,Meat,172.77,5,863.85,Chittagong,Mobile Banking,2025-04-26
+Chicken,Meat,150.6,1,150.6,Rajshahi,Cash,2025-02-25
+Potato,Vegetable,408.43,6,2450.58,Sylhet,Cash,2025-04-18
+Banana,Fruit,170.1,10,1701.0,Rajshahi,Cash,2025-01-23
+Toothpaste,Household,377.97,9,3401.73,Barisal,Cash,2025-10-30
+Bread,Bakery,65.52,2,131.04,Barisal,Cash,2025-07-30
+Potato,Vegetable,388.96,5,1944.8,Chittagong,Cash,2025-11-09
+Milk,Dairy,333.45,5,1667.25,Sylhet,Mobile Banking,2025-12-24
+Biscuits,Snacks,123.89,7,867.23,Dhaka,Cash,2025-08-26
+Potato,Vegetable,96.34,1,96.34,Chittagong,Mobile Banking,2025-03-29
+Orange,Fruit,227.71,8,1821.68,Khulna,Cash,2025-03-08
+Tomato,Vegetable,291.48,5,1457.4,Sylhet,Card,2025-07-26
+Biscuits,Snacks,205.26,1,205.26,Rajshahi,Card,2025-01-10
+Soft Drink,Beverage,87.05,4,348.2,Barisal,Card,2025-12-13
+Chicken,Meat,402.0,7,2814.0,Rajshahi,Mobile Banking,2025-08-24
+Eggs,Dairy,363.38,9,3270.42,Khulna,Cash,2025-08-26
+Potato,Vegetable,438.72,7,3071.04,Khulna,Card,2025-04-13
+Toothpaste,Household,213.5,4,854.0,Chittagong,Card,2025-12-12
+Orange,Fruit,405.46,9,3649.14,Sylhet,Mobile Banking,2025-10-27
+Soft Drink,Beverage,437.37,6,2624.22,Khulna,Cash,2025-12-12
+Soap,Household,274.66,6,1647.96,Khulna,Mobile Banking,2025-12-07
+Potato,Vegetable,290.72,1,290.72,Dhaka,Mobile Banking,2025-02-09
+Chocolate,Snacks,88.3,4,353.2,Barisal,Card,2025-12-10
+Beef,Meat,480.19,9,4321.71,Barisal,Mobile Banking,2025-09-28
+Potato,Vegetable,295.02,8,2360.16,Rajshahi,Mobile Banking,2025-05-04
+Bread,Bakery,34.01,7,238.07,Chittagong,Card,2025-05-30
+Tomato,Vegetable,221.53,5,1107.65,Chittagong,Mobile Banking,2025-12-31
+Soft Drink,Beverage,464.01,1,464.01,Barisal,Cash,2025-04-08
+Soft Drink,Beverage,431.53,4,1726.12,Rajshahi,Card,2025-03-29
+Soft Drink,Beverage,211.74,4,846.96,Sylhet,Cash,2025-03-05
+Chocolate,Snacks,350.65,8,2805.2,Khulna,Card,2025-06-03
+Juice,Beverage,46.37,6,278.22,Barisal,Cash,2025-01-13
+Toothpaste,Household,55.34,3,166.02,Khulna,Mobile Banking,2025-04-20
+Chips,Snacks,231.69,6,1390.14,Chittagong,Cash,2025-11-13
+Onion,Vegetable,475.91,9,4283.19,Rajshahi,Card,2025-07-09
+Toothpaste,Household,288.75,8,2310.0,Dhaka,Mobile Banking,2025-03-28
+Biscuits,Snacks,322.4,2,644.8,Rajshahi,Mobile Banking,2025-12-15
+Soap,Household,116.33,3,348.99,Khulna,Mobile Banking,2025-03-15
+Beef,Meat,259.42,5,1297.1,Sylhet,Mobile Banking,2025-05-20
+Soft Drink,Beverage,33.75,1,33.75,Dhaka,Mobile Banking,2025-12-09
+Biscuits,Snacks,374.87,6,2249.22,Rajshahi,Mobile Banking,2025-09-28
+Potato,Vegetable,474.71,2,949.42,Chittagong,Cash,2025-10-11
+Beef,Meat,112.29,2,224.58,Dhaka,Card,2025-06-10
+Beef,Meat,211.01,5,1055.05,Rajshahi,Cash,2025-07-25
+Rice,Grocery,45.67,7,319.69,Barisal,Mobile Banking,2025-07-08
+Soap,Household,235.67,3,707.01,Rajshahi,Cash,2025-12-05
+Toothpaste,Household,210.67,1,210.67,Sylhet,Mobile Banking,2025-06-04
+Toothpaste,Household,357.22,1,357.22,Khulna,Cash,2025-10-25
+Potato,Vegetable,332.13,3,996.39,Khulna,Cash,2025-05-31
+Milk,Dairy,328.34,6,1970.04,Dhaka,Cash,2025-02-13
+Apple,Fruit,110.38,9,993.42,Khulna,Mobile Banking,2025-09-12
+Rice,Grocery,121.26,8,970.08,Khulna,Cash,2025-04-29
+Chips,Snacks,471.12,9,4240.08,Rajshahi,Cash,2025-11-19
+Apple,Fruit,410.18,4,1640.72,Sylhet,Mobile Banking,2025-08-05
+Biscuits,Snacks,488.08,7,3416.56,Sylhet,Cash,2025-07-20
+Chocolate,Snacks,305.9,3,917.7,Sylhet,Cash,2025-07-30
+Shampoo,Household,110.66,4,442.64,Dhaka,Mobile Banking,2025-04-27
+Chips,Snacks,21.42,1,21.42,Barisal,Mobile Banking,2025-09-13
+Beef,Meat,275.28,7,1926.96,Sylhet,Cash,2025-10-05
+Toothpaste,Household,109.6,9,986.4,Dhaka,Mobile Banking,2025-10-28
+Bread,Bakery,435.15,2,870.3,Sylhet,Cash,2025-04-23
+Chocolate,Snacks,455.73,5,2278.65,Rajshahi,Cash,2025-12-08
+Eggs,Dairy,341.52,9,3073.68,Rajshahi,Mobile Banking,2025-07-26
+Tomato,Vegetable,494.23,4,1976.92,Rajshahi,Cash,2025-03-13
+Rice,Grocery,146.85,4,587.4,Khulna,Mobile Banking,2025-08-02
+Onion,Vegetable,205.44,3,616.32,Chittagong,Mobile Banking,2025-09-15
+Soft Drink,Beverage,441.27,6,2647.62,Dhaka,Card,2025-07-17
+Potato,Vegetable,434.95,8,3479.6,Barisal,Cash,2025-12-07
+Tomato,Vegetable,478.38,8,3827.04,Barisal,Card,2025-03-29
+Shampoo,Household,439.87,5,2199.35,Barisal,Card,2025-01-07
+Juice,Beverage,313.69,8,2509.52,Sylhet,Cash,2025-04-28
+Soft Drink,Beverage,225.88,2,451.76,Rajshahi,Card,2025-12-22
+Bread,Bakery,445.01,4,1780.04,Khulna,Cash,2025-12-01
+Shampoo,Household,296.46,7,2075.22,Rajshahi,Mobile Banking,2025-11-14
+Potato,Vegetable,117.1,6,702.6,Sylhet,Mobile Banking,2025-03-12
+Juice,Beverage,270.0,3,810.0,Dhaka,Mobile Banking,2025-06-04
+Soap,Household,443.62,8,3548.96,Barisal,Cash,2025-12-06
+Biscuits,Snacks,183.69,7,1285.83,Chittagong,Card,2025-11-20
+Chips,Snacks,353.94,2,707.88,Sylhet,Cash,2025-10-22
+Potato,Vegetable,456.94,5,2284.7,Khulna,Cash,2025-03-09
+Banana,Fruit,397.28,8,3178.24,Chittagong,Mobile Banking,2025-02-17
+Chicken,Meat,318.98,2,637.96,Chittagong,Mobile Banking,2025-05-08
+Milk,Dairy,279.1,4,1116.4,Sylhet,Mobile Banking,2025-05-30
+Bread,Bakery,198.15,6,1188.9,Khulna,Card,2025-02-19
+Soap,Household,319.27,7,2234.89,Khulna,Cash,2025-01-04
+Chicken,Meat,222.86,6,1337.16,Dhaka,Mobile Banking,2025-05-14
+Juice,Beverage,477.47,1,477.47,Khulna,Card,2025-10-29
+Shampoo,Household,282.81,4,1131.24,Barisal,Mobile Banking,2025-09-11
+Orange,Fruit,305.65,6,1833.9,Chittagong,Mobile Banking,2025-05-25
+Chips,Snacks,73.65,4,294.6,Chittagong,Mobile Banking,2025-02-14
+Milk,Dairy,33.91,6,203.46,Khulna,Mobile Banking,2025-06-25
+Juice,Beverage,39.99,3,119.97,Barisal,Cash,2025-03-01
+Orange,Fruit,269.75,7,1888.25,Sylhet,Card,2025-08-06
+Milk,Dairy,430.08,5,2150.4,Khulna,Mobile Banking,2025-04-11
+Tomato,Vegetable,150.52,8,1204.16,Chittagong,Mobile Banking,2025-04-07
+Soap,Household,334.04,8,2672.32,Barisal,Mobile Banking,2025-08-15
+Apple,Fruit,25.02,4,100.08,Chittagong,Mobile Banking,2025-01-22
+Chicken,Meat,196.7,7,1376.9,Barisal,Mobile Banking,2025-04-18
+Chicken,Meat,28.83,9,259.47,Barisal,Card,2025-06-14
+Chips,Snacks,303.42,5,1517.1,Rajshahi,Card,2025-01-30
+Rice,Grocery,274.83,6,1648.98,Khulna,Mobile Banking,2025-03-08
+Milk,Dairy,271.52,4,1086.08,Sylhet,Card,2025-02-13
+Rice,Grocery,185.31,4,741.24,Dhaka,Card,2025-11-10
+Eggs,Dairy,24.4,3,73.2,Barisal,Cash,2025-07-11
+Chocolate,Snacks,225.96,1,225.96,Khulna,Card,2025-06-18
+Tomato,Vegetable,132.31,8,1058.48,Rajshahi,Cash,2025-07-24
+Chips,Snacks,450.88,6,2705.28,Dhaka,Card,2025-10-29
+Chicken,Meat,66.88,1,66.88,Khulna,Cash,2025-03-12
+Eggs,Dairy,242.99,6,1457.94,Khulna,Mobile Banking,2025-11-30
+Soap,Household,185.35,6,1112.1,Khulna,Mobile Banking,2025-03-26
+Shampoo,Household,450.71,6,2704.26,Chittagong,Mobile Banking,2025-03-29
+Chocolate,Snacks,480.31,4,1921.24,Khulna,Mobile Banking,2025-06-21
+Beef,Meat,31.21,8,249.68,Chittagong,Cash,2025-06-01
+Soft Drink,Beverage,176.22,10,1762.2,Chittagong,Cash,2025-01-13
+Chocolate,Snacks,480.75,7,3365.25,Rajshahi,Card,2025-05-26
+Beef,Meat,117.16,7,820.12,Sylhet,Mobile Banking,2025-02-12
+Tomato,Vegetable,75.44,6,452.64,Rajshahi,Card,2025-09-09
+Biscuits,Snacks,445.24,4,1780.96,Barisal,Card,2025-12-29
+Chocolate,Snacks,38.73,5,193.65,Dhaka,Card,2025-03-21
+Tomato,Vegetable,440.23,5,2201.15,Barisal,Card,2025-11-12
+Soft Drink,Beverage,432.39,3,1297.17,Dhaka,Mobile Banking,2025-05-09
+Shampoo,Household,153.39,2,306.78,Khulna,Cash,2025-06-27
+Tomato,Vegetable,467.55,2,935.1,Dhaka,Card,2025-10-31
+Chocolate,Snacks,338.81,9,3049.29,Chittagong,Card,2025-04-27
+Onion,Vegetable,305.05,8,2440.4,Barisal,Cash,2025-08-05
+Milk,Dairy,56.14,10,561.4,Rajshahi,Card,2025-12-08
+Apple,Fruit,76.57,1,76.57,Khulna,Cash,2025-02-06
+Orange,Fruit,343.7,1,343.7,Rajshahi,Mobile Banking,2025-08-02
+Chips,Snacks,205.23,1,205.23,Chittagong,Card,2025-12-01
+Milk,Dairy,32.86,7,230.02,Dhaka,Mobile Banking,2025-12-16
+Toothpaste,Household,104.47,3,313.41,Chittagong,Mobile Banking,2025-02-16
+Toothpaste,Household,418.33,4,1673.32,Dhaka,Card,2025-11-06
+Apple,Fruit,323.24,1,323.24,Sylhet,Cash,2025-12-12
+Milk,Dairy,121.86,3,365.58,Rajshahi,Mobile Banking,2025-09-15
+Soft Drink,Beverage,131.94,5,659.7,Rajshahi,Card,2025-09-09
+Shampoo,Household,369.33,1,369.33,Sylhet,Cash,2025-06-21
+Potato,Vegetable,330.62,4,1322.48,Dhaka,Mobile Banking,2025-06-27
+Beef,Meat,379.07,8,3032.56,Khulna,Cash,2025-07-16
+Milk,Dairy,70.57,10,705.7,Khulna,Mobile Banking,2025-06-29
+Orange,Fruit,403.45,8,3227.6,Sylhet,Card,2025-08-12
+Chips,Snacks,378.13,9,3403.17,Barisal,Cash,2025-08-19
+Chocolate,Snacks,57.08,3,171.24,Rajshahi,Cash,2025-10-02
+Banana,Fruit,203.5,9,1831.5,Sylhet,Mobile Banking,2025-12-07
+Chips,Snacks,432.25,9,3890.25,Sylhet,Mobile Banking,2025-06-13
+Shampoo,Household,424.0,1,424.0,Dhaka,Card,2025-06-26
+Milk,Dairy,226.95,1,226.95,Chittagong,Cash,2025-05-06
+Toothpaste,Household,117.34,6,704.04,Rajshahi,Cash,2025-04-28
+Tomato,Vegetable,277.63,9,2498.67,Chittagong,Cash,2025-04-18
+Toothpaste,Household,301.18,10,3011.8,Chittagong,Card,2025-06-30
+Banana,Fruit,171.87,1,171.87,Khulna,Card,2025-03-29
+Chips,Snacks,138.99,1,138.99,Sylhet,Cash,2025-01-13
+Eggs,Dairy,448.21,3,1344.63,Barisal,Card,2025-06-29
+Onion,Vegetable,103.65,7,725.55,Chittagong,Mobile Banking,2025-09-08
+Biscuits,Snacks,425.74,8,3405.92,Dhaka,Card,2025-08-19
+Soap,Household,320.34,9,2883.06,Khulna,Cash,2025-02-14
+Toothpaste,Household,243.24,10,2432.4,Sylhet,Cash,2025-02-17
+Banana,Fruit,194.15,10,1941.5,Rajshahi,Cash,2025-02-25
+Soft Drink,Beverage,212.25,10,2122.5,Sylhet,Card,2025-03-26
+Chocolate,Snacks,403.72,1,403.72,Barisal,Cash,2025-04-08
+Shampoo,Household,198.01,8,1584.08,Khulna,Mobile Banking,2025-06-05
+Rice,Grocery,91.57,9,824.13,Barisal,Cash,2025-05-16
+Biscuits,Snacks,463.31,2,926.62,Khulna,Cash,2025-09-02
+Tomato,Vegetable,172.64,9,1553.76,Dhaka,Card,2025-12-31
+Milk,Dairy,181.29,4,725.16,Dhaka,Cash,2025-09-16
+Beef,Meat,175.04,10,1750.4,Rajshahi,Mobile Banking,2025-12-05
+Soft Drink,Beverage,199.96,8,1599.68,Dhaka,Card,2025-01-02
+Juice,Beverage,389.66,7,2727.62,Barisal,Mobile Banking,2025-05-28
+Juice,Beverage,351.33,3,1053.99,Dhaka,Cash,2025-03-03
+Milk,Dairy,256.69,5,1283.45,Dhaka,Cash,2025-03-21
+Juice,Beverage,208.44,4,833.76,Dhaka,Cash,2025-11-21
+Bread,Bakery,383.34,2,766.68,Sylhet,Card,2025-05-05
+Chicken,Meat,266.8,7,1867.6,Rajshahi,Card,2025-09-21
+Chocolate,Snacks,186.22,9,1675.98,Rajshahi,Card,2025-01-15
+Apple,Fruit,278.81,1,278.81,Dhaka,Mobile Banking,2025-05-18
+Orange,Fruit,189.91,5,949.55,Khulna,Cash,2025-07-29
+Potato,Vegetable,358.43,9,3225.87,Rajshahi,Card,2025-06-26
+Rice,Grocery,201.21,7,1408.47,Rajshahi,Cash,2025-04-06
+Milk,Dairy,223.21,7,1562.47,Dhaka,Card,2025-08-18
