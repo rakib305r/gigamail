@@ -2,7 +2,7 @@ Age,Gender,Salary,Department
 30.0,Male,58000.0,Operations
 ,Female,28000.0,Finance
 40.0,Male,32000.0,Marketing
-32.0,Female,85000.0,Finance
+32.0,Female,85000.0,Finance 
 25.0,Female,58000.0,Operations
 25.0,Male,25000.0,HR
 22.0,Male,28000.0,Finance
