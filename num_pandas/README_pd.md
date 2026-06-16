@@ -1,24 +1,28 @@
 1. loc[]
-
-
-
+প্রথম 5টি row loc[] ব্যবহার করে দেখাও।
+10 থেকে 20 নম্বর row দেখাও।
+শুধু Age এবং Salary column দেখাও।
 2. iloc[]
-
-
-
+প্রথম 10টি row দেখাও।
+5 থেকে 15 নম্বর row দেখাও।
+প্রথম 3টি column দেখাও।
 3. Multiple Conditions Filtering
-
-
-
+Age > 30 এবং Salary > 50000।
+Female এবং Finance department।
+Male এবং IT department।
+Salary > 60000 অথবা Age < 25।
 4. value_counts()
-
-
-
+Gender অনুযায়ী count বের করো।
+Department অনুযায়ী count বের করো।
+Salary_Level অনুযায়ী count বের করো।
 5. drop_duplicates()
-
-
+Duplicate row আছে কিনা দেখো।
+Duplicate row remove করো।
+Remove করার পরে shape check করো।
 6. rename()
-  
+Salary → Income
+Department → Dept
+Age → Employee_Age
 7. apply()
 Salary এর 10% bonus বের করো।
 Age এর সাথে 5 যোগ করো।
