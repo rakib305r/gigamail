@@ -45,12 +45,12 @@
 
 
 # ---------------------------------------
-# import numpy as np
+import numpy as np
 
-# arr = np.array([23,45,85,56,12])
+arr = np.array([23,45,85,56,12])
 
 # print(np.sum(arr))
-# print(np.std(arr))
+print(np.std(arr))
 # print(np.var(arr))
 # print(np.mean(arr))
 # print(np.min(arr))
