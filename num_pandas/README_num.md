@@ -48,7 +48,7 @@ Odd numbers বের করো
 
 7. Broadcasting & Vectorization
 
-Array এর সব element +10 করো
+Array এর সব element +10 করো 
 Array এর সব element ×2 করো
 Array এর সব element square করো
 Two array add (broadcasting) করো
@@ -70,7 +70,7 @@ NaN replace করো
 inf detect করো
 inf replace করো
 
-10. Random Module
+10. Random Modules
 
 0–1 random float generate করো
 1–100 random integer generate করো
