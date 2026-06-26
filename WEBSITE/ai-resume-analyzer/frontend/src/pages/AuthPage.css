@@ -1,0 +1,45 @@
+.auth-page {
+  min-height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 420px;
+  padding: 2.25rem;
+}
+
+.auth-title {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.auth-sub {
+  font-size: 14px;
+  color: var(--text-2);
+  margin-bottom: 1.75rem;
+}
+
+.auth-error {
+  background: var(--danger-light);
+  color: var(--danger);
+  border: 1px solid;
+  border-color: var(--danger);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  font-size: 13px;
+  margin-bottom: 1.25rem;
+  border-opacity: 0.3;
+}
+
+.auth-footer {
+  text-align: center;
+  font-size: 14px;
+  color: var(--text-2);
+  margin-top: 1.5rem;
+}
