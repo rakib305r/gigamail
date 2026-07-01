@@ -18,7 +18,7 @@ export default function LandingPage() {
     <div className="landing">
       <section className="hero">
         <div className="hero-inner">
-          <div className="hero-badge">Powered by Claude AI</div>
+          <div className="hero-badge">Powered by RAKIB</div>
           <h1 className="hero-title">
             Get your resume<br />
             <span className="hero-accent">hired-ready</span>

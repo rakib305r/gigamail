@@ -21,12 +21,9 @@ public class gajal {
             "Hum Pe Karam Maula, Hum Pe Karam",
             "Kardo Karam Allah, Kardo Karam",
             "Hum Pe Karam Maula, Hum Pe Karam",
-
-            // Continue adding all your lyrics here...
         };
 
-        int delay = 2500; // 2.5 seconds
-
+        int delay = 2500;
         for (String line : lyrics) {
             System.out.println(line);
             Thread.sleep(delay);
